@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>99% Invisible: NYC</title>
+<meta name="description" content="A field guide to the things hiding in plain sight, drawn from The 99% Invisible City. College communication-design prototype.">
+<link href="https://fonts.googleapis.com/css2?family=Lilita+One&family=Barlow+Condensed:wght@400;600;700&family=Space+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="css/styles.css?v=400">
+</head><body>
+<a class="skip" href="#main">Skip to content</a>
+<header>
+ <h1 tabindex="0" id="home" role="button"><span class="nm">99%</span> Invisible: NYC</h1>
+ <nav aria-label="Destinations">
+  <button data-r="explore">Explore</button><button data-r="guide">Field Guide</button><button data-r="agent">Field Agent</button><button data-r="notes">Field Notes <span id="nc">0</span></button><button data-r="about">About</button>
+ </nav>
+</header>
+<a class="idfab" href="#/identify">What am I looking at?</a>
+
+<main id="main">
+<section id="land" class="view" hidden>
+ <div class="l-map" aria-hidden="true"></div>
+ <div class="l-top mono"><span>NEW YORK CITY / FIELD STUDY 001</span><span>AN INTERACTIVE URBAN DISCOVERY PUBLICATION</span></div>
+ <h2 class="disp l-title"><span>the <span class="nm">99%</span></span><span>invisible city</span></h2>
+ <div class="l-mid"><p>Drawn from <i>The 99% Invisible City</i> by Roman Mars and Kurt Kohlstedt. Pick a pin on the map, read the story behind a hidden detail, then go and find it on the street.</p><a class="btn y" href="#/explore">Enter the map →</a></div>
+ </section>
+
+<section id="mapv" class="view" hidden>
+ 
+ <div class="mapwrap grid">
+  <div id="mapmsg" class="blk" hidden style="position:absolute;z-index:1001;left:50%;top:45%;transform:translate(-50%,-50%);max-width:420px"></div><div id="map" role="application" aria-label="Interactive map of New York City"></div>
+  <div class="tool"><input id="q" type="search" placeholder="Search stories…" aria-label="Search the New York stories"><div class="chips" id="chips"></div></div>
+  <div class="legend"><i style="background:var(--y);border:2px solid #fff"></i>Story <i style="background:var(--ol);margin-left:8px"></i>Explored<br><span class="mono">LIVE BASEMAP · PIN ACCURACY SHOWN PER STORY</span></div>
+  <div class="zoom"><button id="zi" aria-label="Zoom in">+</button><button id="zo" aria-label="Zoom out">−</button><button id="zr" aria-label="Back to NYC overview" style="font-size:15px">NYC</button></div>
+ </div>
+ <aside id="panel" aria-live="polite"></aside>
+</section>
+
+<section id="gv" class="view" hidden><div class="page" id="gpage"></div></section>
+<section id="av" class="view" hidden><div class="page" id="apage"></div></section>
+<section id="nv" class="view" hidden><div class="page" id="npage"></div></section>
+<section id="abv" class="view" hidden><div class="page about" id="abpage"></div></section>
+
+<section id="idv" class="view grid" hidden>
+ <div class="page">
+ <span class="tag">Simulated tool</span>
+ <h2 class="disp" style="font-size:clamp(44px,7vw,90px);margin:8px 0">What am I looking at?</h2>
+ <p>Pick a sample, then press identify. <b>Prototype simulation: no computer vision is running. The samples are original schematic drawings made for this project, not the book's artwork.</b></p>
+ <div class="tg" id="tg"></div>
+ <button class="btn" id="idbtn" disabled>Identify this</button>
+ <div id="idres"></div>
+ <p style="margin-top:16px"><a href="#/explore" class="btn y" style="text-decoration:none;display:inline-block">← Back to Explore</a></p>
+ </div>
+</section>
+</main>
+<div id="ovl"></div>
+
+<script src="content/site-data.js?v=400"></script>
+<script src="content/book-images.js?v=400"></script>
+<script src="js/config.js?v=400"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="js/core.js?v=400"></script>
+<script src="js/scenes.js?v=400"></script>
+<script src="js/explore.js?v=400"></script>
+<script src="js/guide.js?v=400"></script>
+<script src="js/agent.js?v=400"></script>
+<script src="js/notes.js?v=400"></script>
+<script src="js/about.js?v=400"></script>
+<script src="js/router.js?v=400"></script>
+</body></html>

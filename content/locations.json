@@ -1,0 +1,3560 @@
+[
+ {
+  "id": "LOC-001",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": "Venice Boulevard",
+  "specific": "1976 pipeline rupture and explosion",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-001"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-002",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "orange telecom markings documented in Ingrid Burrington's Networks of New York",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-001"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-003",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "local utility marking examples (BBC article by Laurence Cawley)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-001"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-004",
+  "city": "Philadelphia",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "easement plaques",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-005",
+  "city": "Oakland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "early-1900s sidewalk stamps (Bay Area)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-006",
+  "city": "Berkeley",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Schnoor stamps",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-007",
+  "city": "Chicago",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "required contractor stamps",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-008",
+  "city": "Calgary",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "1909 misspelled street names",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-009",
+  "city": "San Diego",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "protected stamps",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-002"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-010",
+  "city": "Sydney",
+  "country": "Australia",
+  "neighbourhood": "Hyde Park",
+  "specific": "Hyde Park Obelisk (Thornton's Scent Bottle)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-005"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-011",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "stink pipes, utilitarian",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-005"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-012",
+  "city": "Brooklyn, New York",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "58 Joralemon Street",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-006"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-013",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": "Bayswater",
+  "specific": "23-24 Leinster Gardens",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-006"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-014",
+  "city": "Nuremberg",
+  "country": "Germany",
+  "neighbourhood": null,
+  "specific": "Ehekarussell sculpture",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-006"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-015",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Holland Tunnel, Hudson River shore and in-river ventilation buildings",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-007"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-016",
+  "city": "Jersey City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Holland Tunnel, New Jersey side",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-007"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-017",
+  "city": "Toronto",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "residential-looking Toronto Hydro substations",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-008"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-018",
+  "city": "Las Vegas",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "faux-palm towers visible from miles away",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-009"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-019",
+  "city": "Tucson",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Larson Camouflage",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-009"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-020",
+  "city": "Beverly Hills",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Tower of Hope at Beverly Hills High School",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-010"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-021",
+  "city": "Long Beach",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "THUMS / Astronaut Islands",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-010"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-022",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "urban oil derricks",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-010"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-023",
+  "city": "Philadelphia",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "row homes with star anchor plates",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-011"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-024",
+  "city": "San Francisco Bay Area",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "seismic reinforcement",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-011"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-025",
+  "city": "Berkeley",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "homes aligned with old Union Pacific right-of-way",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-012"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-026",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "ghost streets (Geoff Manaugh quote)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-012"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-027",
+  "city": "Minneapolis",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "CenturyLink Building (Northwestern Bell Telephone Building)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-013"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-028",
+  "city": "Tokyo",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "not specified in book (Akasegawa's column and book; place of first sighting not stated)",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-014"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-029",
+  "city": "Vrnjacka Banja",
+  "country": "Serbia",
+  "neighbourhood": null,
+  "specific": "Bridge of Love",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-015"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-030",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "Pont des Arts",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-015"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-031",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "named among romantic cities with love locks",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-015"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-032",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "stretcher railings in Peckham, Brixton, Deptford, Oval",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-016"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-033",
+  "city": "Halifax",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "cannon bollards",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-016"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-034",
+  "city": "Havana",
+  "country": "Cuba",
+  "neighbourhood": null,
+  "specific": "cannon bollards",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-016"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-035",
+  "city": "Pocatello",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "worst-rated flag; replaced by Mountains Left",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-017"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-036",
+  "city": "Chicago",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "flag",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-017"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-037",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "phoenix flag",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-017"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-038",
+  "city": "Atlanta",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "phoenix flag",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-017"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-039",
+  "city": "Phoenix",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "phoenix flag",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-017"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-040",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown",
+  "specific": "Main branch of the New York Public Library (statue leaning on a white horse)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-041",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown",
+  "specific": "Fountain at 59th Street and Fifth Avenue",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-042",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Upper West Side",
+  "specific": "107th Street and Broadway (reclining figure)",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-043",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Lower Manhattan",
+  "specific": "Manhattan Municipal Building (gold statue)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-044",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Upper East Side",
+  "specific": "Metropolitan Museum of Art (30+ statues)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-045",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1915 Panama-Pacific International Exposition",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-018"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-046",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Mission District",
+  "specific": "Gold hydrant",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-019"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-047",
+  "city": "Portland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Smith Memorial Student Union, Portland State University",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-019"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-048",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "English Heritage blue plaques",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-019"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-049",
+  "city": "Newport, Rhode Island",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "cottages with quatrefoils",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-020"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-050",
+  "city": "Washington, D.C.",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Washington National Cathedral",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-020"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-051",
+  "city": "Syracuse",
+  "country": "United States",
+  "neighbourhood": "Tipperary Hill",
+  "specific": "Tompkins Street and Milton Avenue",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-021"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-052",
+  "city": "Japan",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "blue-green traffic lights",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-021"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-053",
+  "city": "Halifax",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Percy Shaw's home and Queensbury Road",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-022"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-054",
+  "city": "California",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Botts' dots",
+  "precision": "state",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-022"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-055",
+  "city": "Glasgow",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "origin of Sillitoe checks",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-023"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-056",
+  "city": "Dallas",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "black-and-white police cars",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-023"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-057",
+  "city": "Western Australia",
+  "country": "Australia",
+  "neighbourhood": null,
+  "specific": "Battenburg ambulance",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-023"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-058",
+  "city": "Carlsbad area, New Mexico",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Waste Isolation Pilot Plant ('southeastern plains of New Mexico')",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-024"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-059",
+  "city": "Artesia",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Abo elementary school (New Mexico)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-025"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-060",
+  "city": "Oakland",
+  "country": "United States",
+  "neighbourhood": "Downtown",
+  "specific": "Tribune Tower",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-027"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-061",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "once a neon metropolis (Manhattan and Brooklyn)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-027"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-062",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Market Street",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-027"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-063",
+  "city": "Hong Kong",
+  "country": "China",
+  "neighbourhood": null,
+  "specific": "neon removal under ordinances",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-027"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-064",
+  "city": "Atlanta",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1996 Olympics opening festivities where the idea was conceived",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-028"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-065",
+  "city": "Houston",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "2008 ban",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-028"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-066",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "production placards across the city",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-029"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-067",
+  "city": "Sao Paulo",
+  "country": "Brazil",
+  "neighbourhood": null,
+  "specific": "Lei Cidade Limpa",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-030"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-068",
+  "city": "Beijing",
+  "country": "China",
+  "neighbourhood": null,
+  "specific": "luxury-apartment ad ban",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-030"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-069",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "ad crackdown",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-030"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-070",
+  "city": "Tehran",
+  "country": "Iran",
+  "neighbourhood": null,
+  "specific": "ads replaced by art",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-030"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-071",
+  "city": "Durham",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Gregson Street overpass (11-foot-8 Bridge)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-031"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-072",
+  "city": "Supai, Arizona",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Supai post office, Grand Canyon (Havasupai reservation)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-032"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-073",
+  "city": "Albany",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1754 meeting",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-032"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-074",
+  "city": "Osaka",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "Osaka Castle manhole cover",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-033"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-075",
+  "city": "Seattle",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "map covers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-033"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-076",
+  "city": "Berlin",
+  "country": "Germany",
+  "neighbourhood": null,
+  "specific": "cityscape covers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-033"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-077",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "T. CRAPPER covers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-033"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-078",
+  "city": "Nashua",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "triangular covers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-033"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-079",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "first public drinking fountain 1859",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-034"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-080",
+  "city": "Portland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Benson Bubblers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-034"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-081",
+  "city": "Chicago",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Chicago River, South Branch (Bubbly Creek), Lake Michigan intake",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-035"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-082",
+  "city": "St. Louis",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "downstream plaintiff",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-035"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-083",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "around 200 street cisterns",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-036"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-084",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "harbor and Hudson estuary; Pearl Street",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-037"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-085",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Central Park",
+  "specific": "1871 Morse statue dedication",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-038"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-086",
+  "city": "Washington, D.C.",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Capitol to Baltimore line start",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-038"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-087",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1936 switch to 60 Hz",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-039"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-088",
+  "city": "Japan",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "split 50/60 Hz grids",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-039"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-089",
+  "city": "Austin",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "about 12 surviving moonlight towers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-040"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-090",
+  "city": "New England",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "apartment building with first net-metered panels (unspecified)",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-041"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-091",
+  "city": "Wayne County (Detroit area)",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "first painted centerline, 1911",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-043"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-092",
+  "city": "Cincinnati",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1923 speed governor referendum",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-044"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-093",
+  "city": "Indiana",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Indiana State Police study",
+  "precision": "state",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-045"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-094",
+  "city": "Lebec, California",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Dead Man's Curve, Ridge Route",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-046"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-095",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Golden Gate Bridge movable barrier",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-046"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-096",
+  "city": "Carmel, Indiana",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "125+ roundabouts",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-048"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-097",
+  "city": "Swindon",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Magic Roundabout",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-048"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-098",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "illusory speed-bump pilot",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-049"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-099",
+  "city": "Cambridge",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "2016 brick circle",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-049"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-100",
+  "city": "Sweden",
+  "country": "Sweden",
+  "neighbourhood": null,
+  "specific": "Dagen H",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-050"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-101",
+  "city": "Samoa",
+  "country": "Samoa",
+  "neighbourhood": null,
+  "specific": "2009 switch",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-050"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-102",
+  "city": "Bayreuth",
+  "country": "Germany",
+  "neighbourhood": null,
+  "specific": "narrow roads without verges",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-051"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-103",
+  "city": "Beijing",
+  "country": "China",
+  "neighbourhood": null,
+  "specific": "hutongs",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-051"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-104",
+  "city": "Berlin",
+  "country": "Germany",
+  "neighbourhood": null,
+  "specific": "East Germany Ampelmaennchen (book says East Germany; Berlin implied by the Wall)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-052"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-105",
+  "city": "Denver",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1993 shared lane marking",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-053"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-106",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "sharrow name",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-053"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-107",
+  "city": "Boston",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "enhanced sharrows",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-053"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-108",
+  "city": "Oakland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "green paint",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-053"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-109",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown Manhattan",
+  "specific": "proposed 1970s car ban; Times Square pedestrian plaza",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-054"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-110",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "Day without Cars",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-054"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-111",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "congestion charge",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-054"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-112",
+  "city": "Barcelona",
+  "country": "Spain",
+  "neighbourhood": null,
+  "specific": "superblocks",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-054"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-113",
+  "city": "Poynton",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "shared space village",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-055"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-114",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Bramah's storefront; 1851 Great Exhibition at the Crystal Palace",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-056"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-115",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Times Square",
+  "specific": "restaurant with first revolving door",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-057"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-116",
+  "city": "Boston",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Cocoanut Grove nightclub fire, 1942",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-057"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-117",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Asch Building (Triangle Shirtwaist fire, 1911)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-058"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-118",
+  "city": "St. Louis",
+  "country": "United States",
+  "neighbourhood": "North St. Louis",
+  "specific": "brick theft and brick industry",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-059"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-119",
+  "city": "Boston",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Boston City Hall (completed 1968)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-060"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-120",
+  "city": "Rome",
+  "country": "Italy",
+  "neighbourhood": null,
+  "specific": "Pantheon",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-060"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-121",
+  "city": "Vancouver",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "Brock Commons Tallwood House",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-061"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-122",
+  "city": "Amsterdam",
+  "country": "Netherlands",
+  "neighbourhood": null,
+  "specific": "canal houses",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-062"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-123",
+  "city": "United Kingdom",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "window tax windows",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-062"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-124",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "Haussmann-era roofs",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-063"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-125",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1916 zoning resolution mansards and setbacks",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-063"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-126",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown",
+  "specific": "Broadway theaters and air-rights transfers",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-064"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-127",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "New York Crystal Palace (1854 demonstration); first passenger elevator in a five-story retail building (1857)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-065"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-128",
+  "city": "Dubai",
+  "country": "United Arab Emirates",
+  "neighbourhood": null,
+  "specific": "Burj Khalifa",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-065"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-129",
+  "city": "New York",
+  "country": "USA",
+  "neighbourhood": "SoHo",
+  "specific": "E. V. Haughwout Building, 488-492 Broadway",
+  "precision": "exact-site",
+  "coordinates": {
+   "lat": 40.72194,
+   "lng": -73.99944
+  },
+  "coordinatesStatus": "externally sourced (Wikipedia); cross-check before launch",
+  "discoveryIds": [
+   "DISC-065"
+  ],
+  "origin": "external research (Layer B)",
+  "verification": "externally sourced"
+ },
+ {
+  "id": "LOC-130",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Tower Building site on Broadway (demolished)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-066"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-131",
+  "city": "Chicago",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Monadnock Building",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-066"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-132",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown Manhattan",
+  "specific": "Chrysler Building",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-067"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-133",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Financial District",
+  "specific": "40 Wall Street",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-067"
+  ],
+  "origin": "book",
+  "verification": "neighbourhood inferred; requires verification"
+ },
+ {
+  "id": "LOC-134",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Woolworth Building; Empire State Building",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-067"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-135",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown Manhattan",
+  "specific": "Citicorp Center (book spelling CitiCorp) and corner church",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-068"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-136",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Financial District",
+  "specific": "Transamerica Pyramid, at Columbus Avenue terminus",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-069"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-137",
+  "city": "Taipei",
+  "country": "Taiwan",
+  "neighbourhood": null,
+  "specific": "Taipei 101",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-070"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-138",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Manhattan",
+  "specific": "Manhattanhenge on cross streets",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-071"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-139",
+  "city": "Manchester",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Beetham Tower",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-071"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-140",
+  "city": "Leeds",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Bridgewater Place",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-071"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-141",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "20 Fenchurch Street",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-071"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-142",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Chinatown",
+  "specific": "rebuilt Chinatown after 1906",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-072"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-143",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Chinatown",
+  "specific": "named among Chinatowns in book",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-072"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-144",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": "Chinatown",
+  "specific": "named in book",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-072"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-145",
+  "city": "Las Vegas",
+  "country": "United States",
+  "neighbourhood": "Chinatown",
+  "specific": "named in book",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-072"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-146",
+  "city": "Long Island, New York",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Big Duck (shop for ducks and eggs)",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-074"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-147",
+  "city": "Las Vegas",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Las Vegas Strip study",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-074"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-148",
+  "city": "Toronto",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "Royal Ontario Museum Crystal",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-075"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-149",
+  "city": "Bern",
+  "country": "Switzerland",
+  "neighbourhood": null,
+  "specific": "Westside Shopping and Leisure Centre",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-075"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-150",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "Eiffel Tower, Centre Pompidou, Louvre Pyramid",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-075"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-151",
+  "city": "Carnuntum",
+  "country": "Austria",
+  "neighbourhood": null,
+  "specific": "Heidentor (Heathen's Gate)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-076"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-152",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown Manhattan",
+  "specific": "Penn Station and Madison Square Garden",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-077"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-153",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Midtown Manhattan",
+  "specific": "Grand Central Terminal",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-077"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-154",
+  "city": "Stirling",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Stirling Castle Great Hall",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-078"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-155",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Statue of Liberty (mentioned for green patina)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-078"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-156",
+  "city": "Warsaw",
+  "country": "Poland",
+  "neighbourhood": "Old Town",
+  "specific": "reconstructed Old Town along the Royal Route",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-079"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-157",
+  "city": "Rome",
+  "country": "Italy",
+  "neighbourhood": null,
+  "specific": "Colosseum, east of the Roman Forum",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-080"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-158",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Lands End / Ocean Beach",
+  "specific": "Sutro Baths ruins near Golden Gate Bridge",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-081"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-159",
+  "city": "Chatsworth, Derbyshire",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Chatsworth House garden marks",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-082"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-160",
+  "city": "Clumber, Nottinghamshire",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Clumber House footprint",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-082"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-161",
+  "city": "Altinum",
+  "country": "Italy",
+  "neighbourhood": null,
+  "specific": "Roman city",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-082"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-162",
+  "city": "Ise",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "Ise Grand Shrine",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-083"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-163",
+  "city": "Japan",
+  "country": "Japan",
+  "neighbourhood": null,
+  "specific": "deconstruction methods; tsunami stones",
+  "precision": "country",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-083"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-164",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Twin Peaks",
+  "specific": "geographic center; Mount Olympus statue site in Ashbury Heights",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-165",
+  "city": "Washington, D.C.",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Zero Milestone south of the White House, President's Park",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-166",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Charing Cross; London Stone",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-167",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "zero plaque before Notre-Dame",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-168",
+  "city": "Budapest",
+  "country": "Hungary",
+  "neighbourhood": null,
+  "specific": "zero kilometer stone",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-169",
+  "city": "Havana",
+  "country": "Cuba",
+  "neighbourhood": null,
+  "specific": "marker",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-170",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "neighbourhood": null,
+  "specific": "monolith",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-084"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-171",
+  "city": "Washington, D.C.",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "boundary stones; Jones Point stone (Alexandria, Virginia)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-085"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-172",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "SoHo, Greenwich Village, Little Italy, Chinatown",
+  "specific": "Lower Manhattan Expressway (I-78) that was not built",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-087"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-173",
+  "city": "Central United States",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Public Land Survey System",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-088"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-174",
+  "city": "Oklahoma City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1889 land rush grid jogs",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-089"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-175",
+  "city": "Salt Lake City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Temple Square zero stone and big blocks",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-090"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-176",
+  "city": "Barcelona",
+  "country": "Spain",
+  "neighbourhood": "Eixample",
+  "specific": "Cerda's extension and superblocks",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-091"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-177",
+  "city": "Detroit",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Woodward Plan, spoke streets, mile roads",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-092"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-178",
+  "city": "Shrewsbury, Massachusetts",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Busta Rhymes Island",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-093"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-179",
+  "city": "Cape Canaveral",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "renamed Cape Kennedy and back",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-093"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-180",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "SoHo",
+  "specific": "south of Houston Street",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-094"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-181",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Tribeca",
+  "specific": "Triangle Below Canal Street",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-094"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-182",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Crown Heights / Prospect Heights",
+  "specific": "ProCro",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-094"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-183",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "SoMa, NoPa",
+  "specific": "acronames",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-094"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-184",
+  "city": "Vancouver",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "2015 floor-numbering bulletin",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-095"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-185",
+  "city": "Agloe, New York",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "between Roscoe and Beaverkill near Pennsylvania border",
+  "precision": "named-place",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-096"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-186",
+  "city": "South Atlantic Ocean",
+  "country": "None",
+  "neighbourhood": null,
+  "specific": "Null Island (0,0)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-097"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-187",
+  "city": "Kansas",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "farm near the geographic center affected by a default location",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-097"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-188",
+  "city": "Tucson",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "stravenues",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-098"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-189",
+  "city": "Baltimore",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Graham Coreil-Allen's project",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-099"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-190",
+  "city": "Colma",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "necropolis town south of San Francisco",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-100"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-191",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "reused headstones at Ocean Beach and Buena Vista Park",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-100"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-192",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Central Park",
+  "specific": "inspired by Mount Auburn",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-100"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-193",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "West Side, Manhattan",
+  "specific": "High Line",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-101"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-194",
+  "city": "Boston",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Emerald Necklace",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-101"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-195",
+  "city": "Chicago",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "The 606",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-101"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-196",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "proposed Garden Bridge",
+  "precision": "named-place",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-101"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-197",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "street palms",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-102"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-198",
+  "city": "Lincoln, Nebraska",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "University of Nebraska campus",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-102"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-199",
+  "city": "Hudson, Florida",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "jailed homeowner",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-103"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-200",
+  "city": "Dunedin, Florida",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "foreclosure fines",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-103"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-201",
+  "city": "Columbus, Ohio",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "lawn coverage",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-103"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-202",
+  "city": "Milan",
+  "country": "Italy",
+  "neighbourhood": null,
+  "specific": "Bosco Verticale (Vertical Forest)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-104"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-203",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Central Park",
+  "specific": "1877 squirrel reintroduction; Central Park and Prospect Park",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-105"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-204",
+  "city": "Philadelphia",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "1847 squirrels",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-105"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-205",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Manhattan",
+  "specific": "Canal Street; Empire State Building near Sunfish Pond",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-106"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-206",
+  "city": "St. Paul",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "downtown office tower (MPR raccoon)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-108"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-207",
+  "city": "Toronto",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "raccoon-resistant bins",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-108"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-208",
+  "city": "Europe",
+  "country": "Europe",
+  "neighbourhood": null,
+  "specific": "Iron Curtain greenbelt",
+  "precision": "region",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-109"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-209",
+  "city": "Philadelphia",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "LOVE Park (JFK Plaza)",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-110"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-210",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Embarcadero skate stoppers",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-110"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-211",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "Tesco spikes; Bank of England deflector",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-111"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-212",
+  "city": "Hamburg",
+  "country": "Germany",
+  "neighbourhood": "St. Pauli",
+  "specific": "anti-urination paint",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-111"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-213",
+  "city": "London",
+  "country": "United Kingdom",
+  "neighbourhood": "Camden",
+  "specific": "Camden bench",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-112"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-214",
+  "city": "Paris",
+  "country": "France",
+  "neighbourhood": null,
+  "specific": "1667 street lighting decree",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-113"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-215",
+  "city": "Mansfield",
+  "country": "United Kingdom",
+  "neighbourhood": null,
+  "specific": "pink lights",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-113"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-216",
+  "city": "Barry",
+  "country": "United Kingdom",
+  "neighbourhood": "South Wales",
+  "specific": "origin of Mosquito idea",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-114"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-217",
+  "city": "Seattle",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "bike racks under an overpass",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-115"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-218",
+  "city": "Portland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "boulders along a freeway",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-115"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-219",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Ankrom's sign over the 110 freeway",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-116"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-220",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Efficient Passenger Project signs in the subway (removed)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-116"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-221",
+  "city": "Los Angeles",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "parking signs",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-117"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-222",
+  "city": "Raleigh",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Walk [Your City] signs",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-117"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-223",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Lower Manhattan",
+  "specific": "1896 heat wave; citywide hydrant openings",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-118"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-224",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Mission District",
+  "specific": "sidewalk just off Market Street",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-119"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-225",
+  "city": "Oakland",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "traffic diverter with Buddha shrine",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-120"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-226",
+  "city": "Berkeley",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Rolling Quads curb cuts program, 1971",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-121"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-227",
+  "city": "Bogota",
+  "country": "Colombia",
+  "neighbourhood": null,
+  "specific": "Ciclovia",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-122"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-228",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Golden Gate Park",
+  "specific": "soft-hit posts bike lane",
+  "precision": "exact-site",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-122"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-229",
+  "city": "Cincinnati",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Bird cages",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-122"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-230",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": "Mission District",
+  "specific": "parklets",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-123"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-231",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Gordon Matta-Clark's leftover parcels (1970s)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-123"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-232",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Lower Manhattan",
+  "specific": "Bowery and Houston, Liz Christy Garden",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-124"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-233",
+  "city": "San Francisco",
+  "country": "United States",
+  "neighbourhood": null,
+  "specific": "Guerrilla Grafters (locations hidden)",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-124"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-234",
+  "city": "Toronto",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "Not Far from the Tree",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-124"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-235",
+  "city": "Philadelphia",
+  "country": "United States",
+  "neighbourhood": "Fishtown",
+  "specific": "Twelfth and Morris streets",
+  "precision": "named-street",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-125"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-236",
+  "city": "New York City",
+  "country": "United States",
+  "neighbourhood": "Times Square",
+  "specific": "car-free plaza program (Geeting's inspiration)",
+  "precision": "neighbourhood",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-125"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ },
+ {
+  "id": "LOC-237",
+  "city": "Toronto",
+  "country": "Canada",
+  "neighbourhood": null,
+  "specific": "leafy neckdowns",
+  "precision": "city",
+  "coordinates": null,
+  "coordinatesStatus": "not verified",
+  "discoveryIds": [
+   "DISC-125"
+  ],
+  "origin": "book",
+  "verification": "stated in book; coordinates not verified"
+ }
+]

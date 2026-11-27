@@ -1,0 +1,2222 @@
+[
+ {
+  "from": "DISC-001",
+  "to": "DISC-002",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-002",
+  "to": "DISC-003",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-003",
+  "to": "DISC-004",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-005",
+  "to": "DISC-006",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-006",
+  "to": "DISC-007",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-007",
+  "to": "DISC-008",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-008",
+  "to": "DISC-009",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-009",
+  "to": "DISC-010",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-011",
+  "to": "DISC-012",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-012",
+  "to": "DISC-013",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-013",
+  "to": "DISC-014",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-014",
+  "to": "DISC-015",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-015",
+  "to": "DISC-016",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-017",
+  "to": "DISC-018",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-018",
+  "to": "DISC-019",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-019",
+  "to": "DISC-020",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-021",
+  "to": "DISC-022",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-022",
+  "to": "DISC-023",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-023",
+  "to": "DISC-024",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-024",
+  "to": "DISC-025",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-026",
+  "to": "DISC-027",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-027",
+  "to": "DISC-028",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-028",
+  "to": "DISC-029",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-029",
+  "to": "DISC-030",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-031",
+  "to": "DISC-032",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-033",
+  "to": "DISC-034",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-034",
+  "to": "DISC-035",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-035",
+  "to": "DISC-036",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-036",
+  "to": "DISC-037",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-038",
+  "to": "DISC-039",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-039",
+  "to": "DISC-040",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-040",
+  "to": "DISC-041",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-041",
+  "to": "DISC-042",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-043",
+  "to": "DISC-044",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-044",
+  "to": "DISC-045",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-045",
+  "to": "DISC-046",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-046",
+  "to": "DISC-047",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-047",
+  "to": "DISC-048",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-048",
+  "to": "DISC-049",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-049",
+  "to": "DISC-050",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-051",
+  "to": "DISC-052",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-052",
+  "to": "DISC-053",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-053",
+  "to": "DISC-054",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-054",
+  "to": "DISC-055",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-056",
+  "to": "DISC-057",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-057",
+  "to": "DISC-058",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-059",
+  "to": "DISC-060",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-060",
+  "to": "DISC-061",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-062",
+  "to": "DISC-063",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-063",
+  "to": "DISC-064",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-065",
+  "to": "DISC-066",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-066",
+  "to": "DISC-067",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-067",
+  "to": "DISC-068",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-068",
+  "to": "DISC-069",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-069",
+  "to": "DISC-070",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-070",
+  "to": "DISC-071",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-072",
+  "to": "DISC-073",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-073",
+  "to": "DISC-074",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-074",
+  "to": "DISC-075",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-076",
+  "to": "DISC-077",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-077",
+  "to": "DISC-078",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-078",
+  "to": "DISC-079",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-079",
+  "to": "DISC-080",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-080",
+  "to": "DISC-081",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-081",
+  "to": "DISC-082",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-082",
+  "to": "DISC-083",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-084",
+  "to": "DISC-085",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-085",
+  "to": "DISC-086",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-086",
+  "to": "DISC-087",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-088",
+  "to": "DISC-089",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-089",
+  "to": "DISC-090",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-090",
+  "to": "DISC-091",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-091",
+  "to": "DISC-092",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-093",
+  "to": "DISC-094",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-094",
+  "to": "DISC-095",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-095",
+  "to": "DISC-096",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-096",
+  "to": "DISC-097",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-097",
+  "to": "DISC-098",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-098",
+  "to": "DISC-099",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-100",
+  "to": "DISC-101",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-101",
+  "to": "DISC-102",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-102",
+  "to": "DISC-103",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-103",
+  "to": "DISC-104",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-106",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-106",
+  "to": "DISC-107",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-107",
+  "to": "DISC-108",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-108",
+  "to": "DISC-109",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-110",
+  "to": "DISC-111",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-111",
+  "to": "DISC-112",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-112",
+  "to": "DISC-113",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-113",
+  "to": "DISC-114",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-114",
+  "to": "DISC-115",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-116",
+  "to": "DISC-117",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-117",
+  "to": "DISC-118",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-118",
+  "to": "DISC-119",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-119",
+  "to": "DISC-120",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-121",
+  "to": "DISC-122",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-122",
+  "to": "DISC-123",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-123",
+  "to": "DISC-124",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "DISC-124",
+  "to": "DISC-125",
+  "type": "book-sequence",
+  "basis": "adjacent stories in the same subcategory"
+ },
+ {
+  "from": "COVER-FIG-01",
+  "to": "DISC-004",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-02",
+  "to": "DISC-011",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-03",
+  "to": "DISC-014",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-04",
+  "to": "DISC-021",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-05",
+  "to": "DISC-041",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-06",
+  "to": "DISC-058",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-07",
+  "to": "DISC-063",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-08",
+  "to": "DISC-108",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-09",
+  "to": "DISC-112",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-10",
+  "to": "DISC-121",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-11",
+  "to": "DISC-016",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-12",
+  "to": "DISC-027",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "COVER-FIG-13",
+  "to": "DISC-023",
+  "type": "cover-figure",
+  "basis": "figure caption on \"The 99% Invisible Field Guide to the Cover\" (PDF pp. 6-8); mapping by subject matched to the story"
+ },
+ {
+  "from": "DISC-001",
+  "to": "DISC-003",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-001",
+  "to": "DISC-004",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-001",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-002",
+  "to": "DISC-001",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-002",
+  "to": "DISC-014",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-003",
+  "to": "DISC-004",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-004",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-005",
+  "to": "DISC-006",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-005",
+  "to": "DISC-007",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-006",
+  "to": "DISC-007",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-006",
+  "to": "DISC-008",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-006",
+  "to": "DISC-004",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-007",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-008",
+  "to": "DISC-009",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-008",
+  "to": "DISC-007",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-009",
+  "to": "DISC-013",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-009",
+  "to": "DISC-006",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-010",
+  "to": "DISC-009",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-010",
+  "to": "DISC-006",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-011",
+  "to": "DISC-012",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-011",
+  "to": "DISC-002",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-011",
+  "to": "DISC-014",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-012",
+  "to": "DISC-014",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-012",
+  "to": "DISC-013",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-013",
+  "to": "DISC-008",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-014",
+  "to": "DISC-016",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-015",
+  "to": "DISC-014",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-015",
+  "to": "DISC-016",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-017",
+  "to": "DISC-018",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-017",
+  "to": "DISC-020",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-017",
+  "to": "DISC-094",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-018",
+  "to": "DISC-019",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-018",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-019",
+  "to": "DISC-077",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-020",
+  "to": "DISC-021",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-021",
+  "to": "DISC-022",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-021",
+  "to": "DISC-023",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-021",
+  "to": "DISC-024",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-021",
+  "to": "DISC-052",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-022",
+  "to": "DISC-023",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-022",
+  "to": "DISC-024",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-022",
+  "to": "DISC-043",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-023",
+  "to": "DISC-024",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-024",
+  "to": "DISC-025",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-025",
+  "to": "DISC-023",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-026",
+  "to": "DISC-027",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-026",
+  "to": "DISC-029",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-026",
+  "to": "DISC-030",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-027",
+  "to": "DISC-028",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-027",
+  "to": "DISC-030",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-028",
+  "to": "DISC-029",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-029",
+  "to": "DISC-030",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-029",
+  "to": "DISC-017",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-030",
+  "to": "DISC-028",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-031",
+  "to": "DISC-047",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-031",
+  "to": "DISC-045",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-031",
+  "to": "DISC-050",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-032",
+  "to": "DISC-042",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-032",
+  "to": "DISC-052",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-033",
+  "to": "DISC-034",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-033",
+  "to": "DISC-036",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-033",
+  "to": "DISC-037",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-034",
+  "to": "DISC-036",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-034",
+  "to": "DISC-035",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-035",
+  "to": "DISC-036",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-035",
+  "to": "DISC-037",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-036",
+  "to": "DISC-019",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-036",
+  "to": "DISC-037",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-037",
+  "to": "DISC-109",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-038",
+  "to": "DISC-039",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-038",
+  "to": "DISC-042",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-038",
+  "to": "DISC-003",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-039",
+  "to": "DISC-040",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-039",
+  "to": "DISC-041",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-040",
+  "to": "DISC-038",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-040",
+  "to": "DISC-113",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-041",
+  "to": "DISC-042",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-043",
+  "to": "DISC-046",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-043",
+  "to": "DISC-049",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-043",
+  "to": "DISC-102",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-044",
+  "to": "DISC-045",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-044",
+  "to": "DISC-049",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-044",
+  "to": "DISC-052",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-045",
+  "to": "DISC-003",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-045",
+  "to": "DISC-046",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-046",
+  "to": "DISC-047",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-046",
+  "to": "DISC-050",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-047",
+  "to": "DISC-048",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-047",
+  "to": "DISC-049",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-047",
+  "to": "DISC-052",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-048",
+  "to": "DISC-049",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-048",
+  "to": "DISC-054",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-049",
+  "to": "DISC-055",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-050",
+  "to": "DISC-047",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-051",
+  "to": "DISC-043",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-051",
+  "to": "DISC-055",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-051",
+  "to": "DISC-102",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-052",
+  "to": "DISC-053",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-053",
+  "to": "DISC-054",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-053",
+  "to": "DISC-049",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-053",
+  "to": "DISC-055",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-054",
+  "to": "DISC-055",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-054",
+  "to": "DISC-122",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-054",
+  "to": "DISC-091",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-056",
+  "to": "DISC-057",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-056",
+  "to": "DISC-058",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-056",
+  "to": "DISC-004",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-057",
+  "to": "DISC-058",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-057",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-058",
+  "to": "DISC-062",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-059",
+  "to": "DISC-060",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-059",
+  "to": "DISC-061",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-059",
+  "to": "DISC-016",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-060",
+  "to": "DISC-061",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-060",
+  "to": "DISC-066",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-061",
+  "to": "DISC-066",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-062",
+  "to": "DISC-064",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-062",
+  "to": "DISC-063",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-062",
+  "to": "DISC-059",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-063",
+  "to": "DISC-064",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-063",
+  "to": "DISC-067",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-063",
+  "to": "DISC-069",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-064",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-064",
+  "to": "DISC-077",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-064",
+  "to": "DISC-069",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-065",
+  "to": "DISC-066",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-065",
+  "to": "DISC-067",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-065",
+  "to": "DISC-068",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-066",
+  "to": "DISC-067",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-066",
+  "to": "DISC-068",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-067",
+  "to": "DISC-068",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-067",
+  "to": "DISC-069",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-068",
+  "to": "DISC-070",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-069",
+  "to": "DISC-070",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-069",
+  "to": "DISC-071",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-070",
+  "to": "DISC-067",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-070",
+  "to": "DISC-071",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-071",
+  "to": "DISC-067",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-072",
+  "to": "DISC-094",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-072",
+  "to": "DISC-076",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-072",
+  "to": "DISC-075",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-073",
+  "to": "DISC-074",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-073",
+  "to": "DISC-072",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-074",
+  "to": "DISC-075",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-075",
+  "to": "DISC-076",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-075",
+  "to": "DISC-078",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-076",
+  "to": "DISC-077",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-076",
+  "to": "DISC-078",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-076",
+  "to": "DISC-081",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-076",
+  "to": "DISC-082",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-077",
+  "to": "DISC-078",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-077",
+  "to": "DISC-083",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-077",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-078",
+  "to": "DISC-079",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-078",
+  "to": "DISC-080",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-079",
+  "to": "DISC-080",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-079",
+  "to": "DISC-083",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-080",
+  "to": "DISC-081",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-080",
+  "to": "DISC-082",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-081",
+  "to": "DISC-082",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-081",
+  "to": "DISC-036",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-082",
+  "to": "DISC-012",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-083",
+  "to": "DISC-082",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-084",
+  "to": "DISC-085",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-084",
+  "to": "DISC-087",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-084",
+  "to": "DISC-086",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-085",
+  "to": "DISC-086",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-085",
+  "to": "DISC-088",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-086",
+  "to": "DISC-087",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-087",
+  "to": "DISC-088",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-087",
+  "to": "DISC-091",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-087",
+  "to": "DISC-094",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-087",
+  "to": "DISC-092",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-088",
+  "to": "DISC-089",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-088",
+  "to": "DISC-090",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-088",
+  "to": "DISC-084",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-089",
+  "to": "DISC-090",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-089",
+  "to": "DISC-092",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-090",
+  "to": "DISC-084",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-090",
+  "to": "DISC-091",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-091",
+  "to": "DISC-092",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-091",
+  "to": "DISC-122",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-092",
+  "to": "DISC-088",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-093",
+  "to": "DISC-094",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-093",
+  "to": "DISC-099",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-093",
+  "to": "DISC-097",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-094",
+  "to": "DISC-077",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-094",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-095",
+  "to": "DISC-065",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-095",
+  "to": "DISC-096",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-095",
+  "to": "DISC-098",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-096",
+  "to": "DISC-097",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-096",
+  "to": "DISC-093",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-096",
+  "to": "DISC-099",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-097",
+  "to": "DISC-099",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-098",
+  "to": "DISC-093",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-098",
+  "to": "DISC-094",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-098",
+  "to": "DISC-097",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-099",
+  "to": "DISC-091",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-099",
+  "to": "DISC-101",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-099",
+  "to": "DISC-051",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-100",
+  "to": "DISC-101",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-100",
+  "to": "DISC-081",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-100",
+  "to": "DISC-103",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-101",
+  "to": "DISC-122",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-101",
+  "to": "DISC-124",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-102",
+  "to": "DISC-103",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-102",
+  "to": "DISC-104",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-103",
+  "to": "DISC-104",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-103",
+  "to": "DISC-105",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-104",
+  "to": "DISC-061",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-106",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-107",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-108",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-109",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-105",
+  "to": "DISC-100",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-106",
+  "to": "DISC-037",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-106",
+  "to": "DISC-109",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-107",
+  "to": "DISC-111",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-107",
+  "to": "DISC-108",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-108",
+  "to": "DISC-109",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-109",
+  "to": "DISC-124",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-110",
+  "to": "DISC-111",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-110",
+  "to": "DISC-112",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-110",
+  "to": "DISC-113",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-110",
+  "to": "DISC-120",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-111",
+  "to": "DISC-112",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-111",
+  "to": "DISC-113",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-112",
+  "to": "DISC-113",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-112",
+  "to": "DISC-114",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-113",
+  "to": "DISC-114",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-114",
+  "to": "DISC-111",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-115",
+  "to": "DISC-111",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-115",
+  "to": "DISC-112",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-115",
+  "to": "DISC-119",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-116",
+  "to": "DISC-117",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-116",
+  "to": "DISC-118",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-116",
+  "to": "DISC-121",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-117",
+  "to": "DISC-118",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-117",
+  "to": "DISC-121",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-117",
+  "to": "DISC-123",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-118",
+  "to": "DISC-119",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-118",
+  "to": "DISC-036",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-118",
+  "to": "DISC-037",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-119",
+  "to": "DISC-111",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-120",
+  "to": "DISC-119",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-120",
+  "to": "DISC-123",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-120",
+  "to": "DISC-124",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-121",
+  "to": "DISC-122",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-121",
+  "to": "DISC-018",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-122",
+  "to": "DISC-123",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-123",
+  "to": "DISC-124",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-123",
+  "to": "DISC-125",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-124",
+  "to": "DISC-125",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-125",
+  "to": "DISC-122",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-125",
+  "to": "DISC-054",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ },
+ {
+  "from": "DISC-125",
+  "to": "DISC-121",
+  "type": "editorial-related",
+  "basis": "editorial judgement after full-text review; not a cross-reference printed in the book"
+ }
+]

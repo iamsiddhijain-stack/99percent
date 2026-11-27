@@ -1,0 +1,568 @@
+THE website structure looks good now but the content that we've generated is just placeholding. I now want to focus on developing the actual content, information architecture and functionality of the website based on the book *The 99% Invisible City* by Roman Mars and Kurt Kohlstedt.
+
+I am attaching the complete book PDF to this prompt. You MUST use the attached book as your primary source and study it carefully before making any changes to the website.
+
+**THE MOST IMPORTANT INSTRUCTION: DO NOT START CODING OR POPULATING THE WEBSITE YET.**
+
+I want you to first complete a thorough extraction of the book's content and build a structured, accurate content database. This is the foundation of the entire project. The website's map, Field Guide, discovery pages, related stories and AI Field Agent will all depend on this database.
+
+Do not skip this stage, rush through it or replace missing information with generic examples.
+
+I want the book extraction and content database to be completed as a separate first milestone. Only after the database has been created, checked and presented should we move on to implementing it in the website.
+
+# PART 1 — BOOK EXTRACTION AND CONTENT DATABASE (FIRST PRIORITY)
+
+## 1. Study the complete book
+
+Read the attached PDF from beginning to end.
+
+Start by identifying:
+- The complete table of contents.
+- All six main chapters.
+- Every subcategory within each chapter.
+- Individual stories, examples, objects, concepts and case studies.
+- The book's original terminology.
+- Relevant page numbers.
+- Any geographical references, cities, neighbourhoods, buildings or specific locations mentioned.
+
+Do not rely only on the table of contents or chapter headings. Read the actual stories and extract their information.
+
+**I want a comprehensive inventory of the book's actual content, not a collection of examples inspired by it.**
+
+If the PDF is too large to process in one pass, work through it chapter by chapter. Maintain a progress tracker so that no chapters or sections are accidentally skipped.
+
+Do not silently omit content because it is difficult to extract.
+
+## 2. Preserve the book's original taxonomy
+
+The six main chapters must form the foundation of the website's content architecture.
+
+### 01. INCONSPICUOUS
+Subcategories:
+- Ubiquitous
+- Camouflage
+- Accretions
+
+### 02. CONSPICUOUS
+Subcategories:
+- Identity
+- Safety
+- Signage
+
+### 03. INFRASTRUCTURE
+Subcategories:
+- Civic
+- Water
+- Technology
+- Roadways
+- Public
+
+### 04. ARCHITECTURE
+Subcategories:
+- Liminal
+- Materials
+- Regulations
+- Towers
+- Foundations
+- Heritage
+
+### 05. GEOGRAPHY
+Subcategories:
+- Delineations
+- Configurations
+- Designations
+- Landscapes
+- Synanthropes
+
+### 06. URBANISM
+Subcategories:
+- Hostilities
+- Interventions
+- Catalysts
+
+Preserve the original chapter and subcategory names exactly as they appear in the book. Do not rename, merge or remove them.
+
+## 3. Extract every individual story
+
+For every story or substantial example in the book, create a structured record with the following fields:
+
+**CONTENT IDENTIFICATION**
+- Unique discovery ID.
+- Original story title, if provided.
+- A concise website-friendly title, if needed.
+- Main chapter.
+- Subcategory.
+- Book page number or page range.
+
+**CONTENT AND EXPLANATION**
+- What is the object, phenomenon or concept?
+- What does it look like?
+- What does it do?
+- Why does it exist?
+- How does it work?
+- What is its historical or cultural background?
+- What makes it interesting or unusual?
+- What is the main takeaway of the story?
+
+**USER OBSERVATION**
+- What should a user look for in the physical environment?
+- What visual clues help identify it?
+- Can it be photographed?
+- Can it be explained through an illustration or diagram?
+- Would an AR-style visual reveal help explain it?
+
+**GEOGRAPHICAL INFORMATION**
+- City.
+- Country.
+- Neighbourhood.
+- Specific building, street or location, if mentioned.
+- Coordinates, only if independently verified.
+- Whether it has a specific geographical location.
+- Whether it can be represented on the website's map.
+
+**RELATIONSHIPS**
+- Related stories from the book.
+- Related chapters.
+- Similar objects or concepts.
+- Connections to other urban design topics.
+
+**RESEARCH AND VERIFICATION**
+- Information directly supported by the book.
+- Additional research required.
+- External sources, if independently verified.
+- Verification status.
+- Any missing or uncertain information.
+
+Do not force every field to have an answer. Use null, "not specified in book" or "requires verification" wherever appropriate.
+
+Do not invent details to make the records appear complete.
+
+## 4. Distinguish between book content and external research
+
+This is extremely important.
+
+I want the website to be based on the book, but I also want it to become a useful research platform.
+
+Keep two separate information layers:
+
+**LAYER A — BOOK-DERIVED CONTENT**
+
+Information directly extracted from the attached book.
+
+Record:
+- Original story.
+- Chapter and subcategory.
+- Page references.
+- Original context.
+- Your own concise summary.
+
+**LAYER B — ADDITIONAL RESEARCH**
+
+Information gathered from external sources to expand or verify the story.
+
+Record:
+- Additional historical information.
+- Verified geographical locations.
+- Current information, where relevant.
+- Reliable external references.
+- Source URLs.
+- Publication or access dates, where available.
+
+Never mix these two layers without identifying which information came from which source.
+
+Do not present general AI knowledge as if it were information from the book.
+
+## 5. Create the actual content database
+
+After extracting the book, create structured data files that can be used directly by the website.
+
+Suggested structure:
+
+`content/`
+- `chapters.json`
+- `subcategories.json`
+- `discoveries.json`
+- `locations.json`
+- `relationships.json`
+- `sources.json`
+- `extraction-progress.json`
+
+Each discovery should have a unique ID and a consistent schema.
+
+Example:
+
+```json
+{
+  "id": "DISC-001",
+  "title": "Example discovery title",
+  "originalTitle": "Original book title if available",
+  "chapter": "INCONSPICUOUS",
+  "subcategory": "Accretions",
+  "bookReference": {
+    "pages": [],
+    "source": "Attached book PDF"
+  },
+  "bookContent": {
+    "summary": "",
+    "function": "",
+    "historicalContext": "",
+    "keyTakeaway": ""
+  },
+  "observation": {
+    "whatToLookFor": "",
+    "visualClues": []
+  },
+  "geography": {
+    "city": null,
+    "country": null,
+    "neighbourhood": null,
+    "address": null,
+    "coordinates": null,
+    "locationType": "global"
+  },
+  "additionalResearch": [],
+  "relatedDiscoveries": [],
+  "media": [],
+  "arPotential": false,
+  "verificationStatus": "book-extracted"
+}
+```
+
+This is only an example of the schema. Use actual extracted content when creating the database.
+
+The website should use these data files as its single source of truth.
+
+Do not hardcode the same discovery information separately in multiple components.
+
+## 6. Maintain an extraction progress tracker
+
+Create a file called:
+
+`content/extraction-progress.json`
+
+Track:
+- Chapters completed.
+- Subcategories reviewed.
+- Stories extracted.
+- Stories requiring further review.
+- Missing page references.
+- Geographical details requiring verification.
+- Stories with possible AR potential.
+- Stories that can be mapped.
+- Outstanding extraction tasks.
+
+Do not mark a chapter as completed until its entire relevant section has been reviewed.
+
+If some content cannot be extracted from the PDF, record exactly what is missing and where.
+
+## 7. Audit the completed database
+
+Once the extraction is complete, perform a quality check.
+
+Check that:
+- All six chapters are included.
+- All original subcategories are included.
+- Every identifiable story has been considered.
+- No stories have been duplicated.
+- Chapter assignments are accurate.
+- Page references are correct.
+- Book-derived content is distinguished from external research.
+- Locations have not been invented.
+- Related-story links refer to valid discovery IDs.
+- Missing information is clearly flagged.
+- The database follows one consistent schema.
+
+Create a summary showing the number of stories extracted under each chapter and subcategory.
+
+If the book's structure does not support a particular field, leave it empty rather than making an assumption.
+
+# PART 2 — PRESENT THE CONTENT DATABASE BEFORE CODING
+
+Once the first stage is complete, STOP and present me with the results.
+
+I want to review the content before you begin implementing it in the website.
+
+Present:
+
+1. A complete chapter and subcategory inventory.
+2. The list of extracted stories under each chapter.
+3. A summary of what each story is about.
+4. The corresponding book page references.
+5. The number of stories extracted per chapter.
+6. Stories that have geographical locations.
+7. Stories that could be represented on the map.
+8. Stories with strong AR potential.
+9. Stories that could be particularly useful for the AI Field Agent.
+10. Any gaps or information that requires additional research.
+
+Also provide access to the actual structured JSON files.
+
+**Do not move to website implementation until this content extraction and database milestone is complete.**
+
+If the extraction is too large for one response, complete it in manageable batches. Continue from the last completed page and maintain the progress tracker. Do not treat a partial extraction as a completed database.
+
+# PART 3 — WEBSITE INFORMATION ARCHITECTURE
+
+Once the content database has been completed and reviewed, use it to implement the following website structure.
+
+The website should have five main destinations:
+
+1. EXPLORE
+2. FIELD GUIDE
+3. AI FIELD AGENT
+4. FIELD NOTES
+5. ABOUT
+
+The existing website structure is a good starting point. Do not redesign everything.
+
+## 1. EXPLORE — INTERACTIVE CITY MAP
+
+The map should remain the central feature and act as the website's table of contents.
+
+Include:
+- Interactive discovery markers.
+- Category-specific marker styles.
+- Search.
+- Filters for all six chapters.
+- Neighbourhood filters.
+- Map/list toggle.
+- Zoom controls.
+- Discovery previews.
+- Links to complete stories.
+
+Maintain SoHo, New York as the first demonstration area.
+
+However, do not place every book story in SoHo. Only map examples whose geographical context supports that placement.
+
+Use three types of geographical content:
+- Exact location.
+- City or neighbourhood-level location.
+- Global or conceptual discovery without a fixed location.
+
+Only the first two should be represented geographically, at an appropriate level of accuracy.
+
+## 2. FIELD GUIDE — DIGITAL BOOK LIBRARY
+
+Create a landing page for each of the six chapters.
+
+Each chapter page should include:
+- Chapter number and original title.
+- Subcategories.
+- Editorial introduction.
+- Featured stories.
+- Story index.
+- Images and diagrams.
+- Related chapters.
+- Map of relevant discoveries.
+- Contextual AI prompts.
+
+The visual direction should resemble an experimental digital publication or editorial archive, not a generic blog or e-commerce website.
+
+Build a universal search that can find content by title, object, concept, chapter, subcategory, location and keywords.
+
+## 3. AI FIELD AGENT
+
+Create a dedicated AI assistant called:
+
+**THE FIELD AGENT**
+*Your AI companion for understanding the invisible city.*
+
+It should have five capabilities:
+
+**IDENTIFY**
+Users upload a photograph and ask what they are looking at. The AI analyses the image, suggests an identification, explains visual clues and links to relevant stories.
+
+**RESEARCH**
+Users ask questions about objects, buildings, street details, infrastructure and urban history. The agent retrieves relevant information from the curated database and verified research sources.
+
+**NEARBY DISCOVERIES**
+With permission, the agent finds nearby mapped discoveries and suggests short exploration routes.
+
+**CONNECTIONS**
+The agent recommends related stories based on chapter, subcategory, function, appearance, history and location.
+
+**PERSONALISED EXPLORATION**
+The agent generates observation challenges to encourage users to notice overlooked urban details.
+
+The AI must prioritise the curated content database. It should cite sources, distinguish book-derived information from external research and communicate uncertainty.
+
+### Technical direction
+
+Use a retrieval-augmented generation system (RAG).
+
+Suggested technology:
+- OpenAI API.
+- Vision-capable model for image understanding.
+- Supabase / PostgreSQL.
+- Embeddings and vector search.
+- Secure backend API.
+
+Never expose API keys in front-end code.
+
+If the current project is static HTML, explain what changes are required for a real AI integration.
+
+Do not create a fake chatbot and present it as functional AI. If a feature is simulated, label it clearly.
+
+## 4. DISCOVERY PAGES
+
+Every story should follow a consistent editorial template:
+
+1. Identification.
+2. What You See.
+3. What You Don't See.
+4. The Backstory.
+5. Look Closer.
+6. Reveal.
+7. Ask the Field Agent.
+8. Keep Exploring.
+
+Each page should feel like a digital editorial feature rather than a standard article.
+
+The Field Agent should receive the context of the discovery currently being viewed.
+
+## 5. AR EXPERIENCE
+
+Keep the existing camera-independent AR mockup approach.
+
+Use visual overlays, annotations, diagrams and technical illustrations to explain hidden details.
+
+Do not claim actual object tracking or spatial AR unless it has genuinely been implemented.
+
+Connect the AR experience to the Field Agent, allowing users to ask questions about the specific object being explored.
+
+## 6. FIELD NOTES
+
+Allow users to:
+- Save discoveries.
+- Bookmark stories.
+- Save useful AI responses.
+- Add personal observations.
+- Revisit saved content.
+- Remove saved content.
+
+Use local storage for the prototype.
+
+## 7. ABOUT
+
+Explain:
+- The concept behind the project.
+- The relationship to the original book.
+- The purpose of the interactive map.
+- The Field Agent.
+- How content and sources are organised.
+
+Credit Roman Mars and Kurt Kohlstedt.
+
+# PART 4 — VISUAL DIRECTION
+
+Preserve the existing moodboard-inspired aesthetic.
+
+The website should retain:
+- Acid yellow.
+- Deep black.
+- Warm off-white.
+- Fine graph-paper grid.
+- Oversized rounded display typography.
+- Editorial typography.
+- Monospaced technical metadata.
+- Archival imagery.
+- Illustrated cartography.
+- Yellow annotations.
+- Asymmetric editorial compositions.
+- Strong black-and-yellow contrast.
+
+The visual language should feel like a combination of an experimental digital publication, an urban field guide, an archival research tool and an interactive map.
+
+Avoid generic SaaS dashboards, excessive rounded cards, purple gradients and generic stock illustrations.
+
+Do not redesign the existing website unnecessarily.
+
+# PART 5 — TECHNICAL DEVELOPMENT
+
+Before making changes, inspect the existing project.
+
+Understand:
+- File structure.
+- Current navigation.
+- Existing components.
+- Map implementation.
+- Discovery data.
+- AR mockups.
+- Styling.
+- Existing assets.
+- Working and non-working interactions.
+
+Build modularly and reuse the content database.
+
+Suggested structure:
+
+- `src/data/chapters`
+- `src/data/discoveries`
+- `src/data/relationships`
+- `src/data/sources`
+- `src/components/Map`
+- `src/components/Discovery`
+- `src/components/FieldAgent`
+- `src/components/AR`
+- `src/components/FieldNotes`
+- `src/pages`
+
+Adapt this to the existing project rather than forcing a complete rewrite.
+
+Ensure:
+- Safari and Chrome compatibility.
+- Responsive layouts.
+- No dead buttons.
+- No broken images.
+- No blank screens.
+- Working navigation and map interactions.
+- Graceful handling of API failures.
+- Secure API credentials.
+- Reusable content data.
+- Easy future expansion.
+
+# PART 6 — FINAL USER JOURNEY
+
+The overall experience should follow:
+
+EXPLORE → NOTICE → IDENTIFY → ASK → REVEAL → UNDERSTAND → CONTINUE.
+
+The map should drive spatial exploration.
+
+The Field Guide should organise the book's stories.
+
+The Field Agent should help users identify, research and connect discoveries.
+
+AR should reveal information that cannot be understood from a photograph alone.
+
+Field Notes should allow users to build their own collection of observations.
+
+The final website should feel like a complete digital interpretation of *The 99% Invisible City*, not simply a website inspired by its aesthetic.
+
+# STRICT WORKING ORDER
+
+Follow this order without skipping stages:
+
+**STAGE 1 — READ THE BOOK COMPLETELY.**
+
+**STAGE 2 — EXTRACT ALL STORIES AND ORGANISE THEM UNDER THE SIX CHAPTERS AND ORIGINAL SUBCATEGORIES.**
+
+**STAGE 3 — BUILD THE STRUCTURED CONTENT DATABASE AND EXTRACTION PROGRESS TRACKER.**
+
+**STAGE 4 — AUDIT THE DATABASE FOR ACCURACY, COMPLETENESS AND DUPLICATES.**
+
+**STAGE 5 — PRESENT THE COMPLETED EXTRACTION AND DATABASE FOR MY REVIEW.**
+
+**STAGE 6 — ONLY AFTER THAT, PROCEED WITH WEBSITE INFORMATION ARCHITECTURE AND IMPLEMENTATION.**
+
+Do not jump from Stage 1 directly to coding.
+
+Do not fill missing book content with invented examples.
+
+Do not mark incomplete extraction as complete.
+
+Do not create generic placeholder stories to make the website look full.
+
+If you reach a processing or context limit, save your progress in the extraction tracker and continue systematically from where you stopped.
+
+**My immediate priority is the complete book extraction and content database. Everything else comes after that.**

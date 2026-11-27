@@ -1,0 +1,605 @@
+{
+  "generatedOn": "2026-11-17",
+  "source": "The_99__Invisible_City_By_Roman_Mars.pdf (469 PDF pages, text layer present, no printed page numbers)",
+  "overallStatus": "MILESTONE 1 COMPLETE; database connected; Layer B for 17 of 21 NYC stories; five-destination site built (first version) and awaiting user review.",
+  "method": [
+    "Parsed the book's Bibliography (PDF pp. 372-434), which lists every story as \"Kicker: Title\" under chapter and subcategory, giving 125 entries.",
+    "Located each of the 125 stories in the main text (PDF pp. 20-363) and checked page order is monotonic.",
+    "Read the opening and closing passages of every story and the opening of every subcategory and chapter.",
+    "Scanned all story text for New York references to find SoHo/NYC-relevant material.",
+    "Layer B: web research on 2 stories only (58 Joralemon Street; Haughwout Building / Otis elevator).",
+    "Full-text review: the complete text of every story (83,508 words across 125 stories) was sliced from the PDF text layer, validated so each slice starts at its own kicker heading, and read in full in chapter order.",
+    "For every story the summary, function, historical context, takeaway, observation prompt, visual clues, places, figure/caption notes and related IDs were rewritten from the full text. Page ranges were checked against the sliced text (one correction: DISC-092 ends on PDF p.280, not 281).",
+    "Trailing photo captions and section teasers that sit after a story on its last page were identified (22) and recorded under bookReference.trailingNonStoryText so they are not mistaken for story text."
+  ],
+  "structure": {
+    "chaptersFound": 6,
+    "subcategoriesFound": 25,
+    "taxonomyMatchesBrief": true,
+    "storiesInventoried": 125,
+    "storiesWithBodyPagesLocated": 125
+  },
+  "chaptersCompleted": {
+    "inventory": [
+      "INCONSPICUOUS",
+      "CONSPICUOUS",
+      "INFRASTRUCTURE",
+      "ARCHITECTURE",
+      "GEOGRAPHY",
+      "URBANISM"
+    ],
+    "fullTextContentReview": [
+      "INCONSPICUOUS",
+      "CONSPICUOUS",
+      "INFRASTRUCTURE",
+      "ARCHITECTURE",
+      "GEOGRAPHY",
+      "URBANISM"
+    ]
+  },
+  "subcategoriesReviewed": "all 25 subcategories: every story in each read in full",
+  "storiesExtracted": {
+    "total": 125,
+    "byChapter": {
+      "INCONSPICUOUS": 16,
+      "CONSPICUOUS": 14,
+      "INFRASTRUCTURE": 25,
+      "ARCHITECTURE": 28,
+      "GEOGRAPHY": 26,
+      "URBANISM": 16
+    },
+    "reviewed": 125
+  },
+  "storiesRequiringFurtherReview": {
+    "all": 0,
+    "note": "Full-text review is complete. Remaining items are verification items, not extraction gaps (see verificationItems)."
+  },
+  "missingPageReferences": {
+    "printedPages": "null for all 125: the PDF is an ebook export whose pagination does not match the printed index (offset drifts), so PDF page numbers are used.",
+    "bookIndexPrintPages": "not mapped to stories"
+  },
+  "geographyRequiringVerification": {
+    "allCoordinates": "No coordinates are held for any book-derived place. Only DISC-006 (58 Joralemon Street) and DISC-065 (Haughwout Building) carry externally sourced Layer B coordinates, which still need cross-checking.",
+    "booksStatementsToVerifyExternally": [
+      "DISC-068: book dates Citicorp Center to 1967; construction date needs checking",
+      "DISC-057: Times Square revolving-door restaurant and date",
+      "DISC-031: current clearance status of the Durham bridge after the 2019 raise",
+      "DISC-058: Asch Building address (not in book)",
+      "DISC-094: 1962 origin of the name SoHo and the \"machines\" loophole",
+      "DISC-014: city of the 1972 Thomasson sighting not stated in the book",
+      "DISC-024: WIPP location only given as southeastern New Mexico"
+    ]
+  },
+  "strongARCandidates": [
+    "DISC-005",
+    "DISC-006",
+    "DISC-007",
+    "DISC-010",
+    "DISC-013",
+    "DISC-018",
+    "DISC-021",
+    "DISC-025",
+    "DISC-031",
+    "DISC-038",
+    "DISC-046",
+    "DISC-058",
+    "DISC-060",
+    "DISC-067",
+    "DISC-068",
+    "DISC-069",
+    "DISC-077",
+    "DISC-101",
+    "DISC-110",
+    "DISC-124"
+  ],
+  "arFlagNote": "arPotential tightened from 96 to 72 of 125 (stories with something a person can physically spot or scan). strongARCandidates are those that also have a specific named site.",
+  "mappable": {
+    "exactLocation": [
+      "DISC-005",
+      "DISC-006",
+      "DISC-007",
+      "DISC-010",
+      "DISC-013",
+      "DISC-018",
+      "DISC-021",
+      "DISC-025",
+      "DISC-031",
+      "DISC-035",
+      "DISC-038",
+      "DISC-046",
+      "DISC-058",
+      "DISC-060",
+      "DISC-061",
+      "DISC-067",
+      "DISC-068",
+      "DISC-069",
+      "DISC-070",
+      "DISC-077",
+      "DISC-081",
+      "DISC-101",
+      "DISC-110",
+      "DISC-124"
+    ],
+    "cityOrNeighbourhood": [
+      "DISC-001",
+      "DISC-002",
+      "DISC-008",
+      "DISC-011",
+      "DISC-012",
+      "DISC-015",
+      "DISC-016",
+      "DISC-027",
+      "DISC-029",
+      "DISC-034",
+      "DISC-036",
+      "DISC-037",
+      "DISC-040",
+      "DISC-052",
+      "DISC-054",
+      "DISC-055",
+      "DISC-057",
+      "DISC-059",
+      "DISC-063",
+      "DISC-064",
+      "DISC-065",
+      "DISC-066",
+      "DISC-071",
+      "DISC-072",
+      "DISC-079",
+      "DISC-087",
+      "DISC-089",
+      "DISC-090",
+      "DISC-091",
+      "DISC-092",
+      "DISC-094",
+      "DISC-096",
+      "DISC-098",
+      "DISC-100",
+      "DISC-102",
+      "DISC-105",
+      "DISC-106",
+      "DISC-116",
+      "DISC-118",
+      "DISC-119",
+      "DISC-120",
+      "DISC-123",
+      "DISC-125"
+    ],
+    "notMapped": 58,
+    "notMappedIds": [
+      "DISC-003",
+      "DISC-004",
+      "DISC-009",
+      "DISC-014",
+      "DISC-017",
+      "DISC-019",
+      "DISC-020",
+      "DISC-022",
+      "DISC-023",
+      "DISC-024",
+      "DISC-026",
+      "DISC-028",
+      "DISC-030",
+      "DISC-032",
+      "DISC-033",
+      "DISC-039",
+      "DISC-041",
+      "DISC-042",
+      "DISC-043",
+      "DISC-044",
+      "DISC-045",
+      "DISC-047",
+      "DISC-048",
+      "DISC-049",
+      "DISC-050",
+      "DISC-051",
+      "DISC-053",
+      "DISC-056",
+      "DISC-062",
+      "DISC-073",
+      "DISC-074",
+      "DISC-075",
+      "DISC-076",
+      "DISC-078",
+      "DISC-080",
+      "DISC-082",
+      "DISC-083",
+      "DISC-084",
+      "DISC-085",
+      "DISC-086",
+      "DISC-088",
+      "DISC-093",
+      "DISC-095",
+      "DISC-097",
+      "DISC-099",
+      "DISC-103",
+      "DISC-104",
+      "DISC-107",
+      "DISC-108",
+      "DISC-109",
+      "DISC-111",
+      "DISC-112",
+      "DISC-113",
+      "DISC-114",
+      "DISC-115",
+      "DISC-117",
+      "DISC-121",
+      "DISC-122"
+    ],
+    "note": "Map flags reflect how precisely the book names a place. exact-location means a specific named site, not that coordinates exist."
+  },
+  "soHoFinding": {
+    "bookStoriesMentioningSoHo": [
+      "DISC-094 Neighborhood Monikers (origin of the name SoHo, 1962 Chester Rapkin, cast-iron buildings, artist lofts)",
+      "DISC-087 National Highways (SoHo, Greenwich Village, Little Italy, Chinatown spared from I-78)"
+    ],
+    "bookStoryLinkedByExternalResearch": "DISC-065 Modern Elevators -> Haughwout Building, 488-492 Broadway, SoHo (Layer B)",
+    "notInBook": [
+      "Foundry marks",
+      "Vault lights",
+      "The six placeholder SoHo items in the prototype are NOT from the book"
+    ],
+    "note": "DISC-094 does mention cast-iron facades of the SoHo area in passing, but the book has no standalone story on SoHo cast-iron architecture."
+  },
+  "fieldAgentCandidates": {
+    "note": "editorial suggestion for Field Agent / Field Guide first launch set",
+    "ids": [
+      "DISC-001",
+      "DISC-002",
+      "DISC-003",
+      "DISC-004",
+      "DISC-006",
+      "DISC-007",
+      "DISC-014",
+      "DISC-018",
+      "DISC-021",
+      "DISC-022",
+      "DISC-033",
+      "DISC-036",
+      "DISC-057",
+      "DISC-058",
+      "DISC-065",
+      "DISC-067",
+      "DISC-068",
+      "DISC-077",
+      "DISC-094",
+      "DISC-101",
+      "DISC-112",
+      "DISC-118",
+      "DISC-124"
+    ]
+  },
+  "auditResults": {
+    "count": 125,
+    "uniqueIds": true,
+    "uniqueTitles": true,
+    "badRelated": [],
+    "selfRelated": [],
+    "pagesMonotonic": true,
+    "invertedPageRanges": [],
+    "schemaVariants": 1,
+    "emptySubcats": [],
+    "allReviewed": true,
+    "summariesUnder40Words": [],
+    "everyStoryHasRelated": true
+  },
+  "knownLimitations": [
+    "Relationships labelled editorial-related are my judgement, not cross-references printed in the book.",
+    "autoKeywords are automatically extracted proper nouns and may contain noise.",
+    "Cover Field Guide figures (13) are mapped to stories in relationships.json; Fig. 11 (cannon bollards) maps to DISC-016.",
+    "Introduction (PDF p.13), Outro (p.364-369) and Index not modelled as discoveries.",
+    "printedPages remain null: the ebook PDF has no printed page numbers, so PDF page numbers are the reference.",
+    "locations.json was rebuilt from the reviewed places (237 entries); shared-location relationships are not derived because no two stories name an identical place string.",
+    "Observation prompts and visual clues are editorial, grounded in the story text; they are not quoted from the book."
+  ],
+  "outstandingTasks": [
+    "Your review of the completed database.",
+    "Layer B research for the NYC-mappable stories and for SoHo (not started beyond DISC-006 and DISC-065).",
+    "Verify all coordinates.",
+    "Resolve the verification items listed above.",
+    "Only after approval: connect the database to the website."
+  ],
+  "verificationItems": {
+    "DISC-006": [
+      "Brooklyn Heights neighbourhood is Layer B (not stated in book text)"
+    ],
+    "DISC-014": [
+      "City of 1972 sighting not specified in book"
+    ],
+    "DISC-018": [
+      "Neighbourhoods are inferred from named streets and not stated in book text",
+      "Book spells the name Munson and Munson/Munson inconsistently"
+    ],
+    "DISC-022": [
+      "Book says the account is as told by Shaw's brother Cecil"
+    ],
+    "DISC-024": [
+      "Book places WIPP in southeastern New Mexico without naming a nearby town; do not pin to Carlsbad without verification"
+    ],
+    "DISC-025": [
+      "Remove NYC entry: the book does not mention New York in this story"
+    ],
+    "DISC-031": [
+      "Current bridge clearance and incident status after 2019 not checked (book says Henn measured ~12'8\")"
+    ],
+    "DISC-032": [
+      "Book gives Arizona only implicitly (Grand Canyon); state name inferred"
+    ],
+    "DISC-037": [
+      "Layer B opportunity: Living Breakwaters location and Billion Oyster Project status are not in book"
+    ],
+    "DISC-038": [
+      "Book does not say exactly where the Morse statue stands in Central Park"
+    ],
+    "DISC-044": [
+      "Book mentions the New York Times but no NYC site"
+    ],
+    "DISC-054": [
+      "Layer B opportunity: current status of NYC congestion pricing"
+    ],
+    "DISC-057": [
+      "Book says Times Square restaurant; requires verification (name and date) via Layer B before mapping a precise pin"
+    ],
+    "DISC-058": [
+      "Book does not give the building's address or neighbourhood; Layer B: Washington Place and Greene Street, Greenwich Village (requires verification)"
+    ],
+    "DISC-063": [
+      "Book names no specific NYC mansard buildings"
+    ],
+    "DISC-064": [
+      "Book names no specific theaters or addresses"
+    ],
+    "DISC-065": [
+      "Book does not name the 1857 building; Layer B research identifies it as the Haughwout Building (488-492 Broadway, SoHo), which needs cross-checking"
+    ],
+    "DISC-066": [
+      "Book gives no street address for the Tower Building; the site is now occupied by other buildings (not checked)"
+    ],
+    "DISC-067": [
+      "Neighbourhoods inferred, not stated in book text"
+    ],
+    "DISC-068": [
+      "Book gives 1967 as the build date, which requires verification (construction ran later); church name not given in book text"
+    ],
+    "DISC-072": [
+      "NYC Chinatown is named only in the opening list; no NYC detail in book"
+    ],
+    "DISC-074": [
+      "Book does not locate the Longaberger building (Ohio) or name the Big Duck's town"
+    ],
+    "DISC-077": [
+      "Layer B opportunity: Landmarks law date; Grand Central soot patch location"
+    ],
+    "DISC-078": [
+      "Statue of Liberty is a passing reference; book does not locate it"
+    ],
+    "DISC-081": [
+      "Neighbourhood name (Lands End) is not stated in the book text"
+    ],
+    "DISC-087": [
+      "Book says I-78 'narrowly missed' Lower Manhattan; Layer B opportunity to document the Lower Manhattan Expressway fight"
+    ],
+    "DISC-094": [
+      "1962 origin date and 'machines' loophole are book claims needing Layer B verification",
+      "Do not assign SoHo coordinates without verification (neighbourhood only)"
+    ],
+    "DISC-096": [
+      "Coordinates not given in book; exact location requires verification"
+    ],
+    "DISC-097": [
+      "Null Island is not a city location; omit from the NYC map"
+    ],
+    "DISC-101": [
+      "Layer B opportunity: High Line coordinates and open dates (book says started in the 2000s, no sections dated)"
+    ],
+    "DISC-105": [
+      "Book says Central Park and Prospect Park designs; 1877 reintroduction in New York is not located to a specific park"
+    ],
+    "DISC-106": [
+      "Layer B opportunity: Minetta Brook and other Manhattan buried streams (not in book)"
+    ],
+    "DISC-111": [
+      "Book gives no date for the Tesco spikes"
+    ],
+    "DISC-118": [
+      "Book gives neighborhood only for the 1896 death toll (Lower Manhattan)"
+    ],
+    "DISC-119": [
+      "Book does not give an exact address"
+    ],
+    "DISC-123": [
+      "Book gives no year for Rebar's first parklet"
+    ],
+    "DISC-124": [
+      "Layer B opportunity: Liz Christy Garden coordinates, opening year, and distance from SoHo"
+    ]
+  },
+  "nycStories": {
+    "ids": [
+      "DISC-006",
+      "DISC-007",
+      "DISC-018",
+      "DISC-038",
+      "DISC-054",
+      "DISC-057",
+      "DISC-058",
+      "DISC-065",
+      "DISC-067",
+      "DISC-068",
+      "DISC-072",
+      "DISC-077",
+      "DISC-078",
+      "DISC-087",
+      "DISC-094",
+      "DISC-100",
+      "DISC-101",
+      "DISC-105",
+      "DISC-106",
+      "DISC-124",
+      "DISC-125"
+    ],
+    "count": 21,
+    "note": "Stories that name a New York City place or neighbourhood in the book text (plus Layer B for DISC-065)"
+  },
+  "websiteIntegration": {
+    "status": "MAP + STORY PANEL CONNECTED (approved by user 2026-11-17)",
+    "scope": "index.html now loads content/map-data.js, generated by tools/build_map_data.py from discoveries.json and map-pins.json. It shows the 21 New York stories; the six placeholder SoHo pins are removed.",
+    "pinned": 20,
+    "unpinned": [
+      "DISC-078 (mapRepresentation 'none': Statue of Liberty mentioned only for its green patina)"
+    ],
+    "pinRule": "Each pin carries a coordStatus (cross-checked, Wikipedia coordinates, estimated, area centre) and an uncertainty radius shown on the map. Pins nudged apart for display are flagged displayOffset. See content/map-pins.json.",
+    "panelShows": [
+      "book summary",
+      "look-for prompt and visual clues",
+      "PDF page references",
+      "places named and their precision",
+      "requires-verification flags",
+      "Layer B research labelled as not from the book, with source URLs and access dates",
+      "related stories (clickable only when also a NYC story)"
+    ],
+    "stillSimulated": "AR field mode and Identify use generic sample art and are labelled as simulations; they are not book content.",
+    "outstanding": [
+      "Verify Layer B facts and pin positions against primary sources before launch",
+      "Layer B research for DISC-054, 078, 106, 125",
+      "Resolve the DISC-068 date discrepancy with the author or a primary source"
+    ]
+  },
+  "layerBResearchPass": {
+    "date": "2026-11-17",
+    "status": "COMPLETE FOR 16 OF 21 NYC STORIES (17 stories carry Layer B including the earlier DISC-006/065 items); 4 NYC stories not yet researched",
+    "method": "Web search and page reads. Every Layer B entry records source URLs, access date and a verification status, and is stored in additionalResearch, separate from book content (Layer A is unchanged).",
+    "storiesResearched": [
+      "DISC-006",
+      "DISC-007",
+      "DISC-018",
+      "DISC-038",
+      "DISC-057",
+      "DISC-058",
+      "DISC-065",
+      "DISC-067",
+      "DISC-068",
+      "DISC-072",
+      "DISC-077",
+      "DISC-087",
+      "DISC-094",
+      "DISC-100",
+      "DISC-101",
+      "DISC-105",
+      "DISC-124"
+    ],
+    "storiesNotYetResearched": {
+      "DISC-054": "Sam Schwartz proposal and current congestion-pricing status",
+      "DISC-078": "Statue of Liberty patina (no map pin)",
+      "DISC-106": "buried Manhattan streams (Minetta Brook etc.)",
+      "DISC-125": "Times Square plaza programme and Philadelphia sneckdowns"
+    },
+    "coordinateChecks": {
+      "crossChecked2Sources": [
+        "DISC-006 (Wikipedia 40.693543,-73.997335 vs Atlas Obscura 40.693475,-73.997352; about 8 m apart)"
+      ],
+      "wikipediaCoordinates_singleSource": [
+        "DISC-018",
+        "DISC-058",
+        "DISC-065",
+        "DISC-067",
+        "DISC-068",
+        "DISC-077",
+        "DISC-101",
+        "DISC-124"
+      ],
+      "areaCentres": [
+        "DISC-054",
+        "DISC-072",
+        "DISC-094",
+        "DISC-100",
+        "DISC-105",
+        "DISC-125"
+      ],
+      "estimated": [
+        "DISC-007 (ventilation-building sites not found)",
+        "DISC-038 (location described by Central Park Conservancy; coordinate estimated)",
+        "DISC-057 (Rector's address from a blog; coordinate estimated)",
+        "DISC-087 (route corridor)",
+        "DISC-106"
+      ],
+      "corrections": [
+        "DISC-124 pin moved about 160 m (earlier placement was off)",
+        "DISC-038 pin moved from mid-park to Inventors' Gate, 72nd St & Fifth Ave",
+        "DISC-068 pin moved about 100 m east",
+        "DISC-058 pin refined to Wikipedia coordinates"
+      ]
+    },
+    "verificationItemsUpdate": {
+      "DISC-068": "NOT RESOLVED IN THE BOOK'S FAVOUR: sources give construction from April 1974 and opening 12 October 1977; the book's '1967' is left unchanged in Layer A and still flagged. Discovery month differs by source (June vs July 1978); church is St. Peter's Lutheran.",
+      "DISC-057": "PARTLY RESOLVED: first NYC revolving door reported at Times Square in 1899; Rector's restaurant, 1508-1510 Broadway, named by one blog ('reportedly'). Needs a primary source.",
+      "DISC-058": "RESOLVED: Asch Building is the Brown Building, 23-29 Washington Place.",
+      "DISC-094": "1962 date for the name SoHo SUPPORTED (Chester Rapkin, 1962); the 'machines' loophole not checked.",
+      "DISC-038": "RESOLVED: Morse statue stands just inside Inventors' Gate, 72nd St & Fifth Ave (unveiled 27 April 1871).",
+      "DISC-007": "PARTLY RESOLVED: four-building system and fan counts confirmed; exact ventilation-building addresses not found; river distance 900 ft (NHL nomination) vs about 1,000 ft (Wikipedia).",
+      "DISC-105": "PARTLY RESOLVED: 1877 date supported by one popular source; park not specified beyond Central Park.",
+      "stillOpen": [
+        "DISC-031 (Durham bridge after the 2019 raise; not a NYC story)",
+        "DISC-014 (city of the 1972 Thomasson sighting)",
+        "DISC-024 (WIPP location beyond 'southeastern New Mexico')"
+      ]
+    },
+    "sourceQualityNote": "Most Layer B facts rest on a single secondary source (often Wikipedia or a mirror of it) or a blog. They are labelled as such and should be confirmed against primary sources (landmark designation reports, archives, official agencies) before launch."
+  },
+  "siteBuild": {
+    "date": "2026-11-17",
+    "status": "FIVE DESTINATIONS BUILT (first version); not yet reviewed by the user",
+    "destinations": {
+      "Explore": "live Leaflet map, 21 NYC stories, clustering, per-pin accuracy status and uncertainty circle",
+      "Field Guide": "all 125 stories by chapter and subcategory; search; filters (chapter, subcategory, New York only, with outside research); full entries with Layer A and Layer B kept apart; related stories; prev/next",
+      "Field Agent": "SIMULATED RAG: client-side BM25 over the database (book summary, look-for, places, Layer B claims) with bigram phrase bonus and term-coverage filter; citations with PDF pages; outside research shown in separate dashed boxes; says 'can't find that' for unsupported questions; optional server hook (js/config.js) with no API key in front-end code",
+      "Field Notes": "saved stories with own notes, own sightings log, Markdown and JSON export; localStorage in try/catch; migrates the old notebook",
+      "About": "sources, method, pin accuracy table (live counts), simulated features, known limits, privacy, developer notes"
+    },
+    "architecture": "hash router (#/route/arg), css/styles.css, js/{core,explore,guide,agent,notes,about,router,config}.js, content/site-data.js generated by tools/build_site_data.py; works from file:// and Live Server",
+    "simulatedAndLabelled": [
+      "Field Agent (retrieval only, no LLM)",
+      "AR field mode (generic sample art)",
+      "Identify (generic sample art)"
+    ],
+    "tests": {
+      "browser": "Playwright: all routes, deep links, Guide search/filters (125/21/17/26 counts), notes save/edit/export/reload persistence, AR to Guide link, mobile 390 px no horizontal scroll, file:// load; no page errors",
+      "agentRetrieval": "20 on-topic questions: 19 top-1 as expected (the other, 'Who is Jane Jacobs', returned DISC-113 then DISC-087, both mention her); 7 off-topic questions: 6 answered 'can't find', 1 literal keyword match ('capital of France' -> DISC-084)"
+    },
+    "knownLimitations": [
+      "Agent is keyword search: it can match a word without matching the meaning, and cannot answer questions that need reasoning across stories",
+      "Only the 21 NYC stories are on the map; the other 104 are in the Field Guide only",
+      "Basemap tiles need internet",
+      "Not yet tested on a real phone or in Safari/Firefox (tested in Chromium only)",
+      "Accessibility not formally audited"
+    ],
+    "nextSteps": [
+      "User review of the five destinations",
+      "Layer B for DISC-054, 078, 106, 125",
+      "Primary-source verification of Layer B and pins",
+      "Optional: server-backed Field Agent using the endpoint hook"
+    ],
+    "illustrationsPass": {
+      "date": "2026-11-17",
+      "note": "AR field mode and Identify now run on ORIGINAL schematic SVG illustrations (js/scenes.js) drawn for this project. Book artwork was not copied (copyrighted). Overlay labels come from each story's visualClues. Simulated: overlays are placed by hand, no detection. Live-camera button and generic scenes removed.",
+      "scenes": [
+        6,
+        7,
+        38,
+        57,
+        58,
+        65,
+        67,
+        68,
+        94,
+        101,
+        105,
+        106,
+        124,
+        125
+      ],
+      "storiesWithoutScene": "18, 54, 72, 77, 78, 87, 100 (NYC stories with no illustration yet)",
+      "openDecision": "User said 'no need for other 104 stories'. Interpreted as: no research/pins needed for non-NYC stories. They remain in the Field Guide and Field Agent; a New-York-only default can be added if requested."
+    }
+  }
+}

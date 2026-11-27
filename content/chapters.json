@@ -1,0 +1,105 @@
+[
+ {
+  "id": "CH-01",
+  "number": 1,
+  "title": "Inconspicuous",
+  "displayTitle": "INCONSPICUOUS",
+  "pdfTitlePage": 17,
+  "editorialIntro": "Hidden design details and accumulations that are easy to overlook.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Ubiquitous",
+   "Camouflage",
+   "Accretions"
+  ],
+  "storyCount": 16,
+  "reviewStatus": "all stories full-text reviewed"
+ },
+ {
+  "id": "CH-02",
+  "number": 2,
+  "title": "Conspicuous",
+  "displayTitle": "CONSPICUOUS",
+  "pdfTitlePage": 68,
+  "editorialIntro": "Things designed specifically to be seen, such as signals, plaques, flags and signs.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Identity",
+   "Safety",
+   "Signage"
+  ],
+  "storyCount": 14,
+  "reviewStatus": "all stories full-text reviewed"
+ },
+ {
+  "id": "CH-03",
+  "number": 3,
+  "title": "Infrastructure",
+  "displayTitle": "INFRASTRUCTURE",
+  "pdfTitlePage": 118,
+  "editorialIntro": "The roads, pipes, wires and systems that civilisation runs on.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Civic",
+   "Water",
+   "Technology",
+   "Roadways",
+   "Public"
+  ],
+  "storyCount": 25,
+  "reviewStatus": "all stories full-text reviewed"
+ },
+ {
+  "id": "CH-04",
+  "number": 4,
+  "title": "Architecture",
+  "displayTitle": "ARCHITECTURE",
+  "pdfTitlePage": 180,
+  "editorialIntro": "Buildings as products of materials, rules, money, history and many unseen hands.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Liminal",
+   "Materials",
+   "Regulations",
+   "Towers",
+   "Foundations",
+   "Heritage"
+  ],
+  "storyCount": 28,
+  "reviewStatus": "all stories full-text reviewed"
+ },
+ {
+  "id": "CH-05",
+  "number": 5,
+  "title": "Geography",
+  "displayTitle": "GEOGRAPHY",
+  "pdfTitlePage": 252,
+  "editorialIntro": "The city seen from above: borders, grids, names, green space and animals.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Delineations",
+   "Configurations",
+   "Designations",
+   "Landscapes",
+   "Synanthropes"
+  ],
+  "storyCount": 26,
+  "reviewStatus": "all stories full-text reviewed"
+ },
+ {
+  "id": "CH-06",
+  "number": 6,
+  "title": "Urbanism",
+  "displayTitle": "URBANISM",
+  "pdfTitlePage": 322,
+  "editorialIntro": "The ongoing dialogue between cities that shape behaviour and citizens who push back.",
+  "introSource": "my paraphrase of the chapter opener",
+  "subcategories": [
+   "Hostilities",
+   "Interventions",
+   "Catalysts"
+  ],
+  "storyCount": 16,
+  "reviewStatus": "all stories full-text reviewed"
+ }
+]

@@ -1,0 +1,516 @@
+# BUILD A HIGH-FIDELITY INTERACTIVE PROTOTYPE: THE 99% INVISIBLE CITY
+
+Act as a senior creative technologist, interaction designer, editorial art director and front-end developer. I need you to design and code a polished, fully interactive website prototype for my communication design project, **The 99% Invisible City**.
+
+I have attached:
+1. My 9-page project presentation explaining the concept, research, user journey and prototype direction.
+2. A visual moodboard showing the intended aesthetic and interface references.
+
+**Study both attachments carefully before writing any code.** The presentation defines what the product is and how it should work. The moodboard defines how it should look and feel. Use both as the primary design references. Do not produce a generic map website, a generic AI interface or a standard dashboard.
+
+The output must be a working, visually sophisticated prototype that I can demonstrate for my college design project.
+
+---
+
+## 1. PROJECT OVERVIEW
+
+**Project title:** The 99% Invisible City  
+**Prototype title:** 99% Invisible: NYC  
+**Concept:** A location-based spatial publication inspired by *The 99% Invisible City* by Roman Mars and Kurt Kohlstedt.
+
+The original book reveals the overlooked design decisions, histories, infrastructure, architecture, signage, geography and everyday objects that shape urban life.
+
+My project transforms that publication into an interactive experience where the city itself becomes the reading interface.
+
+Instead of turning pages, users explore a neighbourhood through an illustrated map, discover overlooked urban details, identify things they see around them, reveal hidden information through augmented-reality-inspired overlays and continue to related discoveries.
+
+The core idea is:
+
+**The map becomes the table of contents. The physical city becomes the page.**
+
+The experience should encourage users to notice things they would normally walk past without thinking about them.
+
+This is not a tourism app. It is not a navigation app. It is an interactive editorial field guide to the invisible systems of a city.
+
+## 2. THE USER JOURNEY
+
+Build the interface around these six stages:
+
+1. **EXPLORE** — Browse an illustrated neighbourhood map and discover intriguing locations.
+2. **NOTICE** — Select a location or overlooked urban detail and learn what to look for in the physical environment.
+3. **IDENTIFY** — Use a visual identification interface to understand a building detail, object, sign or urban system.
+4. **REVEAL** — Open an AR-inspired view with annotated overlays, technical drawings, historical comparisons and hidden layers.
+5. **UNDERSTAND** — Read a concise, editorially designed story explaining why the detail exists and what it reveals about the city.
+6. **CONTINUE** — Follow connections to other discoveries, building a network of stories instead of following a linear sequence of chapters.
+
+Make these stages visible in the interface where appropriate. The user should always understand where they are in the experience and what they can do next.
+
+## 3. ART DIRECTION — FOLLOW THE ATTACHED MOODBOARD
+
+The visual language is the most important part of this assignment. Avoid default SaaS styling, generic cards, excessive rounded rectangles, conventional Google Maps aesthetics and predictable AI-generated website layouts.
+
+The interface should feel like a collision between an experimental editorial website, a graphic design publication, an illustrated urban field guide and an interactive archive.
+
+### Colour palette
+
+Use this palette consistently:
+
+- Acid yellow: `#FFF34A` or a visually similar highlighter yellow.
+- Deep black: `#111111`.
+- Warm off-white: `#F4F1E8`.
+- Pale grey: `#E7E5DE`.
+- Archival olive and muted khaki for map illustrations and historical imagery.
+- Grayscale photography, with yellow used for highlights, annotations and selected objects.
+
+Yellow should be a functional visual signal, not just a decorative accent. Use it to identify important objects, mark routes, highlight architectural features, indicate selected map pins and reveal hidden information.
+
+Use black-and-yellow contrast boldly, but balance it with warm neutral backgrounds so the interface remains readable.
+
+### Typography
+
+Typography must be expressive and editorial.
+
+- Use an oversized, heavy, rounded display typeface for major headings, inspired by the thick, playful lettering in the moodboard.
+- Consider a font such as `Lilita One`, `Fredoka`, or another suitable heavy rounded display font.
+- Pair it with a narrow, condensed sans-serif for body text, labels, descriptions and technical annotations. Consider `Roboto Condensed` or `Barlow Condensed`.
+- Use a monospaced typeface for coordinates, object IDs, timestamps, archival references and technical metadata.
+- Create dramatic changes in scale between display headings, story text and small technical labels.
+- Use black outlines or offset shadows around selected yellow display headings when they complement the composition, as seen in the presentation.
+
+Avoid using the same typography style for everything. The contrast between playful display typography and serious archival information is intentional.
+
+Load fonts from Google Fonts if network access is available, with suitable fallbacks.
+
+### Grid and composition
+
+The moodboard uses a visible graph-paper grid. Reinterpret that as a recurring interface element.
+
+- Use a fine, pale-grey grid on selected off-white backgrounds.
+- Use asymmetric editorial layouts instead of stacking every element vertically.
+- Allow large headings to overlap, sit beside or partially frame images where appropriate.
+- Combine large map areas with narrow information columns, small metadata labels and compact utility controls.
+- Use thin rules, index numbers, annotation lines and technical markers.
+- Create deliberate visual density, but preserve enough whitespace for the interface to feel designed rather than cluttered.
+- Use strong black panels, yellow information blocks and archival images as contrasting editorial elements.
+
+Do not put every element inside a card. Some information should sit directly on the page, some on black panels, and some on yellow blocks.
+
+### Image treatment
+
+Use imagery that feels researched, documentary and archival.
+
+Prioritise:
+- Black-and-white street photography.
+- Historical building photographs.
+- Architectural facades and cast-iron details.
+- Close-up photographs of overlooked street objects.
+- Scanned archival documents and diagrams.
+- Hand-drawn or illustrated maps.
+- Technical line drawings.
+- Halftone textures, subtle grain and photocopied textures.
+
+Apply selective acid-yellow highlights to architectural features and objects. The imagery should feel like a field researcher has marked up a visual archive.
+
+Do not use generic startup illustrations, glossy 3D gradients, stock-style lifestyle imagery or decorative AI-generated cityscapes.
+
+If authentic historical images are available, use them. Otherwise, use well-chosen illustrative placeholders and label conceptual imagery appropriately. Never invent historical photographs or misrepresent a generated image as archival evidence.
+
+---
+
+## 4. PRODUCT STRUCTURE
+
+Build a single-page web application with multiple interactive states, or a small multi-page experience if that is more practical. Keep the navigation intuitive and make the map the primary focus.
+
+### A. Opening / landing experience
+
+Create a striking first screen.
+
+It should include:
+- The title “the 99% invisible city”.
+- A short descriptor such as “A field guide to the things hiding in plain sight.”
+- The location label “NEW YORK CITY / FIELD STUDY 001”.
+- A large illustrated map or archival city image that establishes the visual language.
+- A clear CTA: “ENTER THE CITY” or “START EXPLORING”.
+- A small index of the six discovery stages.
+- Small technical metadata such as edition number, coordinates or publication identifier.
+
+The landing page should look like the cover of an experimental digital publication, not a generic product landing page.
+
+Make the main CTA transition into the map experience.
+
+### B. Illustrated exploration map — the core interface
+
+This is the most important screen.
+
+Build a large, detailed, illustrated map of a selected New York neighbourhood. For continuity with the existing concept, use **SoHo, Manhattan**, unless the attached presentation or available project assets specify otherwise.
+
+The map should feel like a hybrid of:
+- An illustrated city map.
+- A historical atlas.
+- A printed field guide.
+- An annotated technical drawing.
+
+Do not simply embed a default Google Map.
+
+The map should have streets, building footprints, blocks, labels, urban textures, small icons, numbered locations and editorial annotations.
+
+Create an interactive SVG map or another lightweight, controllable map implementation. Use a locally generated schematic map if necessary, but make it visually rich and intentional.
+
+The map must include:
+
+- Interactive discovery markers.
+- Hover states with object IDs or short clues.
+- Clickable locations.
+- Zoom-in and zoom-out controls.
+- A reset-map control.
+- A location or search input.
+- Category filters.
+- A compact legend.
+- A selected-discovery panel.
+- A clear indication of which discoveries have been explored.
+- A visible distinction between ordinary map elements and highlighted invisible-city discoveries.
+
+Possible discovery categories:
+- ARCHITECTURE
+- INFRASTRUCTURE
+- SIGNAGE
+- HISTORY
+- URBAN SYSTEMS
+- MATERIAL CULTURE
+
+Use yellow markers for important discoveries. When a location is selected, highlight its related buildings or streets with yellow outlines, a translucent yellow fill or annotated lines.
+
+Make the map occupy most of the available screen. The map is the interface, not a small illustration beside a dashboard.
+
+Add an editorial header, a slim utility toolbar and a compact information panel without overwhelming the map.
+
+### C. Discovery panel — the digital field guide
+
+When a user selects a marker, open a well-designed information panel or editorial overlay.
+
+Each discovery should contain:
+
+- A discovery number and category.
+- A short, compelling title.
+- A one-line clue that encourages the user to observe something in the real world.
+- A photograph or illustrated detail.
+- The location or street address, when verified.
+- A concise historical or design explanation.
+- An “OBSERVE THIS” instruction.
+- A “REVEAL THE HIDDEN LAYER” CTA.
+- A related-discoveries section.
+- A save or bookmark action.
+
+The panel should resemble a page from an experimental field guide, not a conventional product detail modal.
+
+Use oversized editorial headings, compact labels, archival imagery, yellow annotation blocks and black information panels.
+
+The panel must be genuinely interactive. Clicking a different marker should update the selected discovery and its information.
+
+### D. Identification interface — “What am I looking at?”
+
+Create a dedicated visual identification interaction.
+
+The user should be able to:
+- Select a sample image of an urban object or architectural feature.
+- Click “IDENTIFY THIS”.
+- See a simulated identification result.
+- Read what the object is, what visual clues reveal its function and why it matters.
+- Continue to its AR-inspired reveal.
+
+Include at least three example identification targets, such as:
+- A cast-iron architectural column.
+- A foundry mark or manufacturer stamp.
+- An overlooked urban infrastructure detail.
+
+The identification can be simulated locally. It does not need to connect to a real AI model or require an API key.
+
+Clearly design it as a working prototype interaction, not as a claim that live computer vision is running.
+
+### E. AR reveal — a visual mockup that actually works
+
+This is a key part of the concept and must receive special attention.
+
+The camera functionality failed in a previous version, so do not make the experience dependent on camera permissions.
+
+**The default AR experience must work without a camera.**
+
+Create a convincing AR-inspired interface using a supplied sample image, an illustrated facade or a simulated camera view. The experience should demonstrate how information would appear over a real-world object.
+
+Include four working AR modes:
+
+**MODE 01 — FACADE SCAN**
+- Show a building facade.
+- Add yellow outlines to architectural features.
+- Include callout labels for cast-iron columns, window details and structural components.
+- Draw thin annotation lines connecting labels to the relevant features.
+- Include a short explanation of what the user should notice.
+
+**MODE 02 — FOUNDRY MARK**
+- Show a close-up of a building component or a clearly labelled conceptual example of a foundry mark.
+- Add a magnified inset or detail window.
+- Use a yellow highlight around the mark.
+- Display a technical annotation explaining how such marks can help reveal who manufactured an architectural component.
+
+**MODE 03 — THEN / NOW**
+- Show a historical and a present-day view of a building or streetscape.
+- Provide a draggable comparison slider or a clear side-by-side comparison.
+- Highlight what changed and what survived.
+- Use yellow annotations to identify architectural or urban details.
+
+**MODE 04 — CITY SYSTEMS**
+- Show an urban scene with layered annotations.
+- Identify selected infrastructure or overlooked physical details.
+- Use small technical labels, lines and markers to reveal how everyday objects connect to larger urban systems.
+
+AR interface elements should include:
+- A central targeting reticle.
+- A small “AR FIELD MODE” status label.
+- Object identification labels.
+- Yellow bounding outlines.
+- Measurement or coordinate-style metadata where appropriate.
+- A close or back control.
+- A way to switch between the four modes.
+- A short explanation panel.
+- A button to continue to the full discovery story.
+
+Every mode-switching button must change the actual visible content, active styling and explanatory text. Do not create buttons that merely look interactive.
+
+Use preloaded sample imagery or SVG illustrations. Overlay elements with CSS or SVG so they can be reliably demonstrated in a browser.
+
+If camera access is implemented, make it strictly optional. Include a “TRY LIVE CAMERA” control, request permission only after a user clicks it, handle denial and unsupported browsers gracefully, and provide a visible fallback to the simulated AR experience. Do not let a camera error blank the screen or break any other feature.
+
+Do not claim to provide true spatial tracking, image recognition or world-anchored AR unless those capabilities are genuinely implemented. This is a front-end concept prototype.
+
+### F. Discovery story — “Understand”
+
+After the user opens an AR reveal, let them continue to a longer editorial story.
+
+The story screen should include:
+- A large display heading.
+- An archival or documentary image.
+- A concise explanation of the object's history, function or design context.
+- Annotated details or a technical drawing.
+- A “WHY IT MATTERS” section.
+- A short “LOOK CLOSER” observation prompt.
+- A link to related discoveries.
+- A return-to-map control.
+
+Treat each story like an article in a digital publication. It should feel editorial and research-led.
+
+### G. Related discoveries — “Continue”
+
+Make the discoveries interconnected.
+
+At the bottom of each story, show related locations and concepts using:
+- Numbered references.
+- Thin connecting lines.
+- Mini map snippets.
+- Small image previews.
+- Short editorial clues.
+
+For example, a story about cast-iron architecture could lead to a foundry mark, another architectural detail or the neighbourhood's manufacturing history.
+
+Clicking a related discovery should open that discovery directly.
+
+### H. Saved field notes
+
+Add a working bookmark or field-notes feature.
+
+Users should be able to save discoveries and access them from a “FIELD NOTES” area. Use local storage if appropriate so saved items remain available after refreshing the page.
+
+The saved list should include the discovery title, category and a short note or observation prompt.
+
+Do not require login or user registration.
+
+---
+
+## 5. RESEARCH AND CONTENT ACCURACY
+
+Use the presentation as the source of the project's core concept and the six-stage user journey.
+
+Use real, verifiable examples for the neighbourhood stories. Do not invent historical dates, addresses, building names, archival evidence or technical explanations.
+
+If using SoHo, possible starting points for research include:
+
+- The E. V. Haughwout Building at 488–492 Broadway, associated with cast-iron architecture and an early passenger elevator.
+- Cast-iron foundry marks on buildings in the SoHo Broadway area.
+- The wider history of the SoHo Cast-Iron Historic District and its transformation from a commercial and manufacturing area.
+
+Verify the exact claims, dates, addresses and image sources before including them. If a fact cannot be verified, either omit it or clearly label it as a conceptual placeholder.
+
+Use short, readable story copy. This is an interactive field guide, not a long-form essay.
+
+Do not reproduce large passages from the original book.
+
+Where practical, include a source or reference link in each discovery story.
+
+---
+
+## 6. INTERACTION AND FUNCTIONAL REQUIREMENTS
+
+The site must work as an actual prototype, not just as a static visual design.
+
+Implement the following:
+
+1. The landing-page CTA opens the map.
+2. Map markers are clickable.
+3. Selecting a marker updates the discovery panel.
+4. Category filters update which markers are shown.
+5. Search finds relevant discoveries.
+6. Zoom and reset controls work.
+7. The “IDENTIFY THIS” interaction displays an identification result.
+8. All four AR modes switch their visual content correctly.
+9. The Then / Now comparison works.
+10. Discovery stories open and close correctly.
+11. Related discoveries navigate to the selected item.
+12. Saved discoveries can be added and removed.
+13. Field notes remain saved after a refresh if local storage is used.
+14. Back, close and return-to-map controls work.
+15. All interactions remain usable without camera access.
+16. The prototype works in Safari on macOS and in a Chromium-based browser.
+17. The layout adapts to laptop, tablet and mobile screens.
+18. There are no blank screens, dead buttons, broken image references or uncaught JavaScript errors.
+
+Provide useful empty states and error states. If an image fails to load, show a designed placeholder rather than a broken-image icon.
+
+---
+
+## 7. TECHNICAL IMPLEMENTATION
+
+First inspect the available project files and assets.
+
+If there is an existing working project, preserve its useful structure and functionality instead of starting over unnecessarily.
+
+If there is no existing project, build a self-contained prototype using:
+- HTML.
+- CSS.
+- Vanilla JavaScript.
+- Inline SVG for the illustrated map and annotation overlays where appropriate.
+
+A React implementation is also acceptable if the environment already supports it and it makes the interactions easier to maintain.
+
+Keep the implementation lightweight and easy to run locally.
+
+Technical requirements:
+- Use reusable components or clearly organised functions.
+- Separate content data from interface logic.
+- Avoid unnecessary dependencies.
+- Avoid requiring paid APIs, API keys or a backend.
+- Use local assets or reliable image sources.
+- Add graceful fallbacks for unavailable external assets.
+- Make buttons keyboard-accessible.
+- Use semantic HTML and accessible contrast.
+- Ensure the interface works when served from localhost.
+- Keep browser console errors to zero.
+
+Do not rely on browser APIs that are unavailable when opening a file locally. If a local server is required, explain this clearly.
+
+If using multiple files, create a clean project structure, for example:
+
+`index.html`
+`styles.css`
+`script.js`
+`assets/`
+
+If using a single HTML file is more reliable, that is acceptable too.
+
+---
+
+## 8. RESPONSIVE LAYOUT
+
+Desktop is the primary demonstration format.
+
+At laptop widths:
+- Use a large map area.
+- Keep navigation compact.
+- Show the discovery panel alongside the map when space permits.
+- Preserve the editorial grid and asymmetric composition.
+
+On smaller screens:
+- Stack the map and discovery panel.
+- Keep essential controls visible.
+- Use a bottom sheet or full-screen overlay for discovery details.
+- Ensure the AR mockup remains legible.
+- Prevent horizontal overflow.
+
+Do not simply shrink the desktop interface. Adapt its composition intelligently.
+
+---
+
+## 9. MOTION AND MICRO-INTERACTIONS
+
+Use subtle, intentional motion.
+
+Examples:
+- A marker grows slightly on hover.
+- Selecting a discovery draws or reveals its annotation lines.
+- Yellow highlights fade or sweep into view.
+- The discovery panel enters with a short, controlled transition.
+- AR annotations appear in a staggered sequence.
+- The Then / Now slider moves smoothly.
+- The map responds to zoom controls.
+
+Motion should reinforce the act of looking closer. Avoid excessive bouncing, long animations or effects that slow down the interface.
+
+Respect reduced-motion preferences.
+
+---
+
+## 10. VISUAL QUALITY BAR
+
+The result should look like a carefully art-directed communication design project.
+
+The desired impression is:
+- Experimental editorial design.
+- Strong typographic personality.
+- A visual archive of New York.
+- A field guide for curious urban observers.
+- A map that doubles as an interface.
+- An AR concept presented through convincing visual overlays.
+
+Use the moodboard's yellow-and-black visual identity, rounded display typography, grid system, image-led composition and compact technical labels. Use the presentation's grayscale city imagery, yellow highlighting, illustrated cartography and research-led tone.
+
+Avoid:
+- Generic blue navigation maps.
+- Standard SaaS dashboards.
+- Repeated rounded white cards.
+- Purple gradients.
+- Excessive glassmorphism.
+- Generic stock illustrations.
+- A basic map with a sidebar and little else.
+- Fake AI functionality.
+- Decorative buttons that do nothing.
+- Camera access as a prerequisite for demonstrating AR.
+
+The final product should feel like an independent digital publication designed by a graphic designer, not a template generated by a website builder.
+
+---
+
+## 11. DELIVERABLES AND EXECUTION PLAN
+
+Work in this order:
+
+**Step 1 — Inspect**
+Read the presentation and inspect the moodboard. Identify the content hierarchy, visual language and core interactions.
+
+**Step 2 — Plan**
+Briefly outline the page structure, main states, data model and implementation approach.
+
+**Step 3 — Build**
+Implement the complete prototype, including the illustrated map, discovery panel, identification interaction, four AR mockups, story views, related discoveries and saved field notes.
+
+**Step 4 — Test**
+Test all major interactions. Check that each AR mode visibly changes, that camera denial does not break the experience, and that the interface works after refreshing.
+
+**Step 5 — Refine**
+Improve spacing, typography, image treatment, grid alignment, contrast, responsive behaviour and micro-interactions. Prioritise visual fidelity to the attachments.
+
+**Step 6 — Deliver**
+Provide the complete working code and a clear file structure. If your environment supports file creation, create the actual files rather than only printing code snippets.
+
+Tell me exactly how to run the prototype locally on a Mac using VS Code and Safari.
+
+If you can preview the implementation, inspect the rendered result and correct visual or functional issues before declaring it complete.
+
+Do not stop after generating a design plan or a static mockup. **Build the working prototype.**

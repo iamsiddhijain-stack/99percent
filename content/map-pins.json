@@ -1,0 +1,176 @@
+{
+  "_note": "DISPLAY LAYER ONLY. Pin positions for the website map. The book gives place names, not coordinates. coordStatus: 'cross' = two external sources agree; 'wikipedia' = one external source; 'estimated' = placed by the street grid or described location; 'area' = centre of a neighbourhood, park or square. radiusMetres is the uncertainty circle shown on the map. Nothing here changes the book content in discoveries.json.",
+  "defaultCoordSource": "editorial placement at the named landmark or neighbourhood (general geographic knowledge); not surveyed, not from the book",
+  "pins": {
+    "DISC-006": {
+      "lat": 40.693543,
+      "lng": -73.997335,
+      "basis": "58 Joralemon Street, Brooklyn Heights",
+      "coordStatus": "cross",
+      "radiusMetres": 40,
+      "coordSource": "Layer B: cross-checked against two sources (Wikipedia, Atlas Obscura)"
+    },
+    "DISC-007": {
+      "lat": 40.7262,
+      "lng": -74.0108,
+      "basis": "Holland Tunnel, Manhattan side near the Hudson shore (the exact ventilation-building sites were not found; book also names in-river buildings)",
+      "coordStatus": "estimated",
+      "radiusMetres": 250,
+      "coordSource": "estimated placement (general geographic knowledge and the street grid), not surveyed"
+    },
+    "DISC-018": {
+      "lat": 40.75306,
+      "lng": -73.98194,
+      "basis": "New York Public Library main branch (first of five civic monuments the book names)",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 60,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-038": {
+      "lat": 40.7735,
+      "lng": -73.9665,
+      "basis": "Morse statue just inside Inventors' Gate, 72nd Street and Fifth Avenue, Central Park (location from Central Park Conservancy; coordinate estimated from the street grid)",
+      "coordStatus": "estimated",
+      "radiusMetres": 100,
+      "coordSource": "estimated placement (general geographic knowledge and the street grid), not surveyed",
+      "displayOffset": true
+    },
+    "DISC-054": {
+      "lat": 40.758,
+      "lng": -73.9855,
+      "basis": "Times Square, Midtown Manhattan",
+      "coordStatus": "area",
+      "radiusMetres": 400,
+      "coordSource": "area centre of Times Square; estimated (a Wikipedia coordinate could not be read)"
+    },
+    "DISC-057": {
+      "lat": 40.7566,
+      "lng": -73.9863,
+      "basis": "Rector's restaurant, 1508-1510 Broadway near 43rd Street, Times Square (Layer B; the book names no restaurant; coordinate estimated from the street grid)",
+      "coordStatus": "estimated",
+      "radiusMetres": 150,
+      "coordSource": "estimated placement (general geographic knowledge and the street grid), not surveyed",
+      "displayOffset": true
+    },
+    "DISC-058": {
+      "lat": 40.73,
+      "lng": -73.99528,
+      "basis": "Asch Building / Washington Place near Washington Square (address not in book; requires verification)",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 40,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-065": {
+      "lat": 40.72194,
+      "lng": -73.99944,
+      "basis": "E. V. Haughwout Building, 488-492 Broadway, SoHo",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 40,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-067": {
+      "lat": 40.75167,
+      "lng": -73.97528,
+      "basis": "Chrysler Building (book also names 40 Wall Street, Woolworth, Empire State)",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 40,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-068": {
+      "lat": 40.75861,
+      "lng": -73.97028,
+      "basis": "Citicorp Center, Midtown Manhattan",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 50,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-072": {
+      "lat": 40.715,
+      "lng": -73.997,
+      "basis": "Chinatown, Manhattan",
+      "coordStatus": "area",
+      "radiusMetres": 500,
+      "coordSource": "area centre: Wikipedia coordinate 40.715, -73.997 (mirror), single source"
+    },
+    "DISC-077": {
+      "lat": 40.750638,
+      "lng": -73.993899,
+      "basis": "Penn Station and Madison Square Garden (book also names Grand Central)",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 100,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-078": null,
+    "DISC-087": {
+      "lat": 40.721,
+      "lng": -73.997,
+      "basis": "Broome Street corridor between SoHo and Little Italy (route of the unbuilt expressway; estimated)",
+      "coordStatus": "estimated",
+      "radiusMetres": 400,
+      "coordSource": "estimated placement (general geographic knowledge and the street grid), not surveyed",
+      "displayOffset": true
+    },
+    "DISC-094": {
+      "lat": 40.723,
+      "lng": -74.0,
+      "basis": "SoHo, south of Houston Street",
+      "coordStatus": "area",
+      "radiusMetres": 500,
+      "coordSource": "area centre: Wikipedia coordinate 40.723, -74.000, single source"
+    },
+    "DISC-100": {
+      "lat": 40.78222,
+      "lng": -73.96528,
+      "basis": "Central Park (centre)",
+      "coordStatus": "area",
+      "radiusMetres": 800,
+      "coordSource": "area centre: Wikipedia coordinates 40°46′56″N 73°57′55″W, single source"
+    },
+    "DISC-101": {
+      "lat": 40.748,
+      "lng": -74.0047,
+      "basis": "High Line, West Side of Manhattan",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 300,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-105": {
+      "lat": 40.779,
+      "lng": -73.97,
+      "basis": "Central Park (book); the book does not locate the 1877 reintroduction within the park",
+      "coordStatus": "area",
+      "radiusMetres": 800,
+      "coordSource": "Central Park area; the position within the park is a display nudge, not data",
+      "displayOffset": true
+    },
+    "DISC-106": {
+      "lat": 40.7186,
+      "lng": -74.0017,
+      "basis": "Canal Street, Manhattan",
+      "coordStatus": "estimated",
+      "radiusMetres": 300,
+      "coordSource": "estimated placement (general geographic knowledge and the street grid), not surveyed"
+    },
+    "DISC-124": {
+      "lat": 40.72403,
+      "lng": -73.9917,
+      "basis": "Bowery and Houston Street (Liz Christy Garden)",
+      "coordStatus": "wikipedia",
+      "radiusMetres": 60,
+      "coordSource": "Layer B: Wikipedia infobox coordinates, single source, read 2026-11-17"
+    },
+    "DISC-125": {
+      "lat": 40.7571,
+      "lng": -73.9862,
+      "basis": "Times Square pedestrian plaza area",
+      "coordStatus": "area",
+      "radiusMetres": 400,
+      "coordSource": "area centre of Times Square; estimated and nudged so pins do not overlap",
+      "displayOffset": true
+    }
+  },
+  "unpinned": {
+    "DISC-078": "Database mapRepresentation is 'none': the Statue of Liberty is mentioned only for its green patina."
+  },
+  "verifiedOn": "2026-11-17"
+}
